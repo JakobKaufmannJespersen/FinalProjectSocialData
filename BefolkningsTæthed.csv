@@ -1,0 +1,1890 @@
+Område;KomKode;Byområde;Navn;Folketal;Areal;Befolkningstæthed
+000-01100 Hovedstadsområdet;000;01100;Hovedstadsområdet;0.0;0.0;0.0
+101-00101 Københavns Kommune;101;00101;Københavns Kommune;0.0;0.0;0.0
+101-01100 København (del af Hovedstadsområdet);101;01100;København (del af Hovedstadsområdet);602481.0;76.7;7855.2
+101-99999 Landdistrikter;101;99999;Landdistrikter;0.0;9.7;0.0
+147-00147 Frederiksberg Kommune;147;00147;Frederiksberg Kommune;0.0;0.0;0.0
+147-01100 Frederiksberg (del af Hovedstadsområdet);147;01100;Frederiksberg (del af Hovedstadsområdet);105037.0;8.7;12063.5
+147-99999 Landdistrikter;147;99999;Landdistrikter;0.0;0.0;0.0
+151-00151 Ballerup Kommune;151;00151;Ballerup Kommune;0.0;0.0;0.0
+151-01100 Ballerup (del af Hovedstadsområdet);151;01100;Ballerup (del af Hovedstadsområdet);39019.0;15.7;2486.1
+151-10223 Smørumnedre (del af flere kommuner);151;10223;Smørumnedre (del af flere kommuner);8925.0;3.8;2345.6
+151-99997 Uden fast bopæl;151;99997;Uden fast bopæl;57.0;0.0;0.0
+151-99999 Landdistrikter;151;99999;Landdistrikter;230.0;14.5;15.9
+153-00153 Brøndby Kommune;153;00153;Brøndby Kommune;0.0;0.0;0.0
+153-01100 Brøndby (del af Hovedstadsområdet);153;01100;Brøndby (del af Hovedstadsområdet);35367.0;13.1;2696.1
+153-99997 Uden fast bopæl;153;99997;Uden fast bopæl;183.0;0.0;0.0
+153-99999 Landdistrikter;153;99999;Landdistrikter;44.0;7.9;5.6
+155-00155 Dragør Kommune;155;00155;Dragør Kommune;0.0;0.0;0.0
+155-10277 Søvang;155;10277;Søvang;1736.0;0.6;2691.5
+155-10278 Dragør;155;10278;Dragør;12132.0;4.7;2570.3
+155-99997 Uden fast bopæl;155;99997;Uden fast bopæl;49.0;0.0;0.0
+155-99999 Landdistrikter;155;99999;Landdistrikter;371.0;12.9;28.8
+157-00157 Gentofte Kommune;157;00157;Gentofte Kommune;0.0;0.0;0.0
+157-01100 Gentofte (del af Hovedstadsområdet);157;01100;Gentofte (del af Hovedstadsområdet);75805.0;23.9;3168.6
+157-99999 Landdistrikter;157;99999;Landdistrikter;0.0;1.7;0.0
+159-00159 Gladsaxe Kommune;159;00159;Gladsaxe Kommune;0.0;0.0;0.0
+159-01100 Gladsaxe (del af Hovedstadsområdet);159;01100;Gladsaxe (del af Hovedstadsområdet);68767.0;21.6;3182.6
+159-99997 Uden fast bopæl;159;99997;Uden fast bopæl;0.0;0.0;0.0
+159-99999 Landdistrikter;159;99999;Landdistrikter;8.0;3.3;2.4
+161-00161 Glostrup Kommune;161;00161;Glostrup Kommune;0.0;0.0;0.0
+161-01100 Glostrup (del af Hovedstadsområdet);161;01100;Glostrup (del af Hovedstadsområdet);22449.0;8.4;2657.0
+161-99997 Uden fast bopæl;161;99997;Uden fast bopæl;65.0;0.0;0.0
+161-99999 Landdistrikter;161;99999;Landdistrikter;14.0;4.8;2.9
+163-00163 Herlev Kommune;163;00163;Herlev Kommune;0.0;0.0;0.0
+163-01100 Herlev (del af Hovedstadsområdet);163;01100;Herlev (del af Hovedstadsområdet);28350.0;9.8;2890.8
+163-99997 Uden fast bopæl;163;99997;Uden fast bopæl;37.0;0.0;0.0
+163-99999 Landdistrikter;163;99999;Landdistrikter;19.0;2.3;8.4
+165-00165 Albertslund Kommune;165;00165;Albertslund Kommune;0.0;0.0;0.0
+165-01100 Albertslund (del af Hovedstadsområdet);165;01100;Albertslund (del af Hovedstadsområdet);27709.0;10.3;2679.0
+165-99997 Uden fast bopæl;165;99997;Uden fast bopæl;62.0;0.0;0.0
+165-99999 Landdistrikter;165;99999;Landdistrikter;125.0;12.8;9.7
+167-00167 Hvidovre Kommune;167;00167;Hvidovre Kommune;0.0;0.0;0.0
+167-01100 Hvidovre (del af Hovedstadsområdet);167;01100;Hvidovre (del af Hovedstadsområdet);52818.0;18.7;2820.4
+167-99997 Uden fast bopæl;167;99997;Uden fast bopæl;146.0;0.0;0.0
+167-99999 Landdistrikter;167;99999;Landdistrikter;0.0;4.2;0.0
+169-00169 Høje-Taastrup Kommune;169;00169;Høje-Taastrup Kommune;0.0;0.0;0.0
+169-10201 Hedehusene;169;10201;Hedehusene;11943.0;6.6;1812.3
+169-10202 Reerslev;169;10202;Reerslev;641.0;0.5;1269.3
+169-10203 Taastrup;169;10203;Taastrup;34154.0;13.4;2552.8
+169-18394 Sengeløse;169;18394;Sengeløse;1538.0;0.9;1720.4
+169-18395 Vridsløsemagle;169;18395;Vridsløsemagle;281.0;0.3;821.6
+169-99997 Uden fast bopæl;169;99997;Uden fast bopæl;161.0;0.0;0.0
+169-99999 Landdistrikter;169;99999;Landdistrikter;1528.0;56.6;27.0
+173-00173 Lyngby-Taarbæk Kommune;173;00173;Lyngby-Taarbæk Kommune;0.0;0.0;0.0
+173-01100 Lyngby-Taarbæk (del af Hovedstadsområdet);173;01100;Lyngby-Taarbæk (del af Hovedstadsområdet);54759.0;18.4;2974.7
+173-10287 Skodsborg;173;10287;Skodsborg;0.0;0.0;0.0
+173-99997 Uden fast bopæl;173;99997;Uden fast bopæl;310.0;0.0;0.0
+173-99999 Landdistrikter;173;99999;Landdistrikter;171.0;20.4;8.4
+175-00175 Rødovre Kommune;175;00175;Rødovre Kommune;0.0;0.0;0.0
+175-01100 Rødovre (del af Hovedstadsområdet);175;01100;Rødovre (del af Hovedstadsområdet);38358.0;11.2;3416.9
+175-99997 Uden fast bopæl;175;99997;Uden fast bopæl;134.0;0.0;0.0
+175-99999 Landdistrikter;175;99999;Landdistrikter;0.0;0.9;0.0
+183-00183 Ishøj Kommune;183;00183;Ishøj Kommune;0.0;0.0;0.0
+183-01100 Ishøj (del af Hovedstadsområdet);183;01100;Ishøj (del af Hovedstadsområdet);20712.0;5.5;3774.1
+183-15889 Torslunde;183;15889;Torslunde;312.0;0.2;1437.8
+183-18390 Ishøj Landsby;183;18390;Ishøj Landsby;1083.0;0.7;1547.1
+183-18597 Vestervang;183;18597;Vestervang;0.0;0.0;0.0
+183-99997 Uden fast bopæl;183;99997;Uden fast bopæl;101.0;0.0;0.0
+183-99999 Landdistrikter;183;99999;Landdistrikter;511.0;20.1;25.5
+185-00185 Tårnby Kommune;185;00185;Tårnby Kommune;0.0;0.0;0.0
+185-01100 Tårnby (del af Hovedstadsområdet);185;01100;Tårnby (del af Hovedstadsområdet);42543.0;13.7;3104.4
+185-99997 Uden fast bopæl;185;99997;Uden fast bopæl;157.0;0.0;0.0
+185-99999 Landdistrikter;185;99999;Landdistrikter;310.0;52.4;5.9
+187-00187 Vallensbæk Kommune;187;00187;Vallensbæk Kommune;0.0;0.0;0.0
+187-01100 Vallensbæk (del af Hovedstadsområdet);187;01100;Vallensbæk (del af Hovedstadsområdet);15157.0;4.1;3716.8
+187-18391 Vallensbæk Landsby;187;18391;Vallensbæk Landsby;446.0;0.3;1722.0
+187-99997 Uden fast bopæl;187;99997;Uden fast bopæl;36.0;0.0;0.0
+187-99999 Landdistrikter;187;99999;Landdistrikter;66.0;5.1;12.8
+190-00190 Furesø Kommune;190;00190;Furesø Kommune;0.0;0.0;0.0
+190-01100 Furesø (del af Hovedstadsområdet);190;01100;Furesø (del af Hovedstadsområdet);3776.0;1.6;2298.2
+190-10221 Kirke Værløse;190;10221;Kirke Værløse;994.0;0.6;1595.5
+190-10223 Smørumnedre (del af flere kommuner);190;10223;Smørumnedre (del af flere kommuner);1156.0;0.5;2214.6
+190-10237 Farum;190;10237;Farum;19967.0;7.7;2598.9
+190-10241 Birkerød (del af flere kommuner);190;10241;Birkerød (del af flere kommuner);6.0;0.0;461.5
+190-11048 Værløse;190;11048;Værløse;13127.0;5.1;2582.5
+190-18839 Laanshøj;190;18839;Laanshøj;617.0;0.2;2856.5
+190-99997 Uden fast bopæl;190;99997;Uden fast bopæl;214.0;0.0;0.0
+190-99999 Landdistrikter;190;99999;Landdistrikter;756.0;41.0;18.4
+201-00201 Allerød Kommune;201;00201;Allerød Kommune;0.0;0.0;0.0
+201-10241 Birkerød (del af flere kommuner);201;10241;Birkerød (del af flere kommuner);31.0;0.0;911.8
+201-10300 Blovstrød;201;10300;Blovstrød;2211.0;1.3;1714.0
+201-10693 Lynge;201;10693;Lynge;4036.0;1.8;2246.0
+201-10829 Lillerød;201;10829;Lillerød;16793.0;7.4;2259.9
+201-12871 Nymølle;201;12871;Nymølle;374.0;1.2;309.6
+201-99997 Uden fast bopæl;201;99997;Uden fast bopæl;42.0;0.0;0.0
+201-99999 Landdistrikter;201;99999;Landdistrikter;1455.0;55.7;26.1
+210-00210 Fredensborg Kommune;210;00210;Fredensborg Kommune;0.0;0.0;0.0
+210-10006 Humlebæk;210;10006;Humlebæk;9587.0;4.2;2306.8
+210-10008 Nivå;210;10008;Nivå;8024.0;2.7;2952.2
+210-10172 Helsingør (del af flere kommuner);210;10172;Helsingør (del af flere kommuner);91.0;0.0;2116.3
+210-10194 Espergærde (del af flere kommuner);210;10194;Espergærde (del af flere kommuner);0.0;0.0;0.0
+210-10303 Hørsholm (del af flere kommuner);210;10303;Hørsholm (del af flere kommuner);10115.0;3.9;2571.8
+210-10652 Hillerød (del af flere kommuner);210;10652;Hillerød (del af flere kommuner);8.0;0.0;1000.0
+210-10703 Sørup;210;10703;Sørup;555.0;0.4;1512.3
+210-16469 Karlebo;210;16469;Karlebo;214.0;0.3;761.6
+210-18410 Fredensborg;210;18410;Fredensborg;8519.0;4.7;1817.6
+210-18411 Nivå Havn;210;18411;Nivå Havn;0.0;0.0;0.0
+210-99997 Uden fast bopæl;210;99997;Uden fast bopæl;112.0;0.0;0.0
+210-99999 Landdistrikter;210;99999;Landdistrikter;3279.0;95.9;34.2
+217-00217 Helsingør Kommune;217;00217;Helsingør Kommune;0.0;0.0;0.0
+217-10007 Kvistgård;217;10007;Kvistgård;1162.0;1.7;690.4
+217-10135 Hornbæk-Dronningmølle (del af flere kommuner);217;10135;Hornbæk-Dronningmølle (del af flere kommuner);3571.0;3.9;912.8
+217-10136 Hellebæk;217;10136;Hellebæk;5530.0;2.5;2210.2
+217-10170 Tikøb;217;10170;Tikøb;709.0;0.4;1696.2
+217-10171 Gurre;217;10171;Gurre;418.0;0.4;1050.3
+217-10172 Helsingør (del af flere kommuner);217;10172;Helsingør (del af flere kommuner);47032.0;17.9;2627.6
+217-10194 Espergærde (del af flere kommuner);217;10194;Espergærde (del af flere kommuner);0.0;0.0;0.0
+217-12974 Langesø;217;12974;Langesø;226.0;0.9;254.5
+217-15244 Saunte;217;15244;Saunte;1240.0;1.1;1176.5
+217-70078 Stenstrup;217;70078;Stenstrup;0.0;0.0;0.0
+217-99997 Uden fast bopæl;217;99997;Uden fast bopæl;143.0;0.0;0.0
+217-99999 Landdistrikter;217;99999;Landdistrikter;2412.0;90.1;26.8
+219-00219 Hillerød Kommune;219;00219;Hillerød Kommune;0.0;0.0;0.0
+219-10076 Skævinge;219;10076;Skævinge;2631.0;1.2;2216.5
+219-10232 Store Lyngby;219;10232;Store Lyngby;837.0;0.4;2312.2
+219-10233 Meløse;219;10233;Meløse;642.0;0.3;2140.0
+219-10291 Gørløse;219;10291;Gørløse;1147.0;0.6;1905.3
+219-10292 Nørre Herlev;219;10292;Nørre Herlev;430.0;0.3;1653.8
+219-10299 Uvelse;219;10299;Uvelse;980.0;0.5;1987.8
+219-10650 Alsønderup;219;10650;Alsønderup;541.0;0.4;1498.6
+219-10651 Gadevang;219;10651;Gadevang;1125.0;0.8;1348.9
+219-10652 Hillerød (del af flere kommuner);219;10652;Hillerød (del af flere kommuner);32270.0;17.4;1851.8
+219-10700 Nødebo;219;10700;Nødebo;2040.0;1.3;1565.6
+219-10808 Ny Hammersholt;219;10808;Ny Hammersholt;1307.0;0.5;2466.0
+219-12960 Brødeskov;219;12960;Brødeskov;211.0;0.1;2089.1
+219-13387 Ny Harløse;219;13387;Ny Harløse;204.0;0.1;1522.4
+219-18409 Tulstrup;219;18409;Tulstrup;1207.0;0.6;2095.5
+219-99997 Uden fast bopæl;219;99997;Uden fast bopæl;142.0;0.0;0.0
+219-99999 Landdistrikter;219;99999;Landdistrikter;4395.0;189.0;23.3
+223-00223 Hørsholm Kommune;223;00223;Hørsholm Kommune;0.0;0.0;0.0
+223-10289 Trørød (del af flere kommuner);223;10289;Trørød (del af flere kommuner);0.0;0.0;0.0
+223-10303 Hørsholm (del af flere kommuner);223;10303;Hørsholm (del af flere kommuner);24457.0;11.4;2137.7
+223-99997 Uden fast bopæl;223;99997;Uden fast bopæl;66.0;0.0;0.0
+223-99999 Landdistrikter;223;99999;Landdistrikter;454.0;19.8;22.9
+230-00230 Rudersdal Kommune;230;00230;Rudersdal Kommune;0.0;0.0;0.0
+230-01100 Rudersdal (del af Hovedstadsområdet);230;01100;Rudersdal (del af Hovedstadsområdet);19878.0;9.3;2128.7
+230-10220 Høsterkøb;230;10220;Høsterkøb;320.0;0.5;665.3
+230-10241 Birkerød (del af flere kommuner);230;10241;Birkerød (del af flere kommuner);20541.0;9.1;2263.5
+230-10287 Skodsborg;230;10287;Skodsborg;1245.0;0.4;3167.9
+230-10289 Trørød (del af flere kommuner);230;10289;Trørød (del af flere kommuner);0.0;0.0;0.0
+230-10301 Ravnsnæs;230;10301;Ravnsnæs;611.0;0.3;2071.2
+230-10302 Brådebæk;230;10302;Brådebæk;0.0;0.0;0.0
+230-10303 Hørsholm (del af flere kommuner);230;10303;Hørsholm (del af flere kommuner);12722.0;7.1;1795.9
+230-99997 Uden fast bopæl;230;99997;Uden fast bopæl;107.0;0.0;0.0
+230-99999 Landdistrikter;230;99999;Landdistrikter;709.0;46.7;15.2
+240-00240 Egedal Kommune;240;00240;Egedal Kommune;0.0;0.0;0.0
+240-10030 Tangbjerg;240;10030;Tangbjerg;574.0;0.2;2352.5
+240-10208 Ganløse;240;10208;Ganløse;2895.0;1.2;2349.8
+240-10223 Smørumnedre (del af flere kommuner);240;10223;Smørumnedre (del af flere kommuner);9699.0;3.7;2653.6
+240-10224 Stenløse;240;10224;Stenløse;0.0;0.0;0.0
+240-10225 Søsum;240;10225;Søsum;321.0;0.2;1834.3
+240-10273 Ledøje;240;10273;Ledøje;823.0;0.4;1936.5
+240-10999 Ølstykke St.;240;10999;Ølstykke St.;0.0;0.0;0.0
+240-11047 Slagslunde;240;11047;Slagslunde;908.0;0.5;1883.8
+240-11263 Smørumovre;240;11263;Smørumovre;0.0;0.0;0.0
+240-18361 Veksø;240;18361;Veksø;1892.0;0.7;2567.2
+240-18767 Ølstykke-Stenløse;240;18767;Ølstykke-Stenløse;21635.0;9.8;2212.4
+240-70316 Buresø;240;70316;Buresø;505.0;0.9;545.4
+240-99997 Uden fast bopæl;240;99997;Uden fast bopæl;53.0;0.0;0.0
+240-99999 Landdistrikter;240;99999;Landdistrikter;3777.0;108.2;34.9
+250-00250 Frederikssund Kommune;250;00250;Frederikssund Kommune;0.0;0.0;0.0
+250-10012 Dalby;250;10012;Dalby;316.0;0.2;2038.7
+250-10013 Skibby;250;10013;Skibby;3191.0;1.8;1738.0
+250-10014 Skuldelev;250;10014;Skuldelev;882.0;0.5;1837.5
+250-10177 Ferslev;250;10177;Ferslev;256.0;0.2;1049.2
+250-10178 Kyndby;250;10178;Kyndby;272.0;0.2;1203.5
+250-10179 Venslev;250;10179;Venslev;239.0;0.3;827.0
+250-10190 Slangerup;250;10190;Slangerup;6864.0;3.2;2117.9
+250-10235 Græse Bakkeby;250;10235;Græse Bakkeby;2314.0;0.7;3169.9
+250-10236 Jægerspris;250;10236;Jægerspris;4226.0;2.8;1534.5
+250-10305 Sønderby;250;10305;Sønderby;295.0;0.3;1031.5
+250-10680 Gerlev;250;10680;Gerlev;775.0;0.5;1645.4
+250-10681 Landerslev;250;10681;Landerslev;254.0;0.1;1854.0
+250-10682 Lyngerup;250;10682;Lyngerup;233.0;0.2;1063.9
+250-10683 Frederikssund;250;10683;Frederikssund;16186.0;8.2;1982.4
+250-10684 Jørlunde;250;10684;Jørlunde;306.0;0.2;1436.6
+250-10698 Kyndby Huse;250;10698;Kyndby Huse;301.0;0.2;1447.1
+250-10998 Store Rørbæk;250;10998;Store Rørbæk;568.0;0.3;1938.6
+250-15744 Vellerup;250;15744;Vellerup;459.0;1.7;276.3
+250-17169 Græse;250;17169;Græse;207.0;0.1;1427.6
+250-70269 Dalby Huse;250;70269;Dalby Huse;279.0;0.9;326.3
+250-70271 Kulhuse;250;70271;Kulhuse;908.0;4.5;203.3
+250-70310 Over Dråby Strand;250;70310;Over Dråby Strand;409.0;1.4;294.0
+250-99997 Uden fast bopæl;250;99997;Uden fast bopæl;71.0;0.0;0.0
+250-99999 Landdistrikter;250;99999;Landdistrikter;5225.0;220.0;23.7
+253-00253 Greve Kommune;253;00253;Greve Kommune;0.0;0.0;0.0
+253-01100 Greve Strand (del af Hovedstadsområdet);253;01100;Greve Strand (del af Hovedstadsområdet);42701.0;21.9;1953.4
+253-10184 Greve;253;10184;Greve;718.0;0.5;1471.3
+253-10321 Tune;253;10321;Tune;5250.0;2.5;2130.7
+253-11260 Kildebrønde;253;11260;Kildebrønde;357.0;0.3;1040.8
+253-99997 Uden fast bopæl;253;99997;Uden fast bopæl;133.0;0.0;0.0
+253-99999 Landdistrikter;253;99999;Landdistrikter;762.0;35.2;21.6
+259-00259 Køge Kommune;259;00259;Køge Kommune;0.0;0.0;0.0
+259-10041 Vemmedrup;259;10041;Vemmedrup;1663.0;1.3;1242.0
+259-10042 Borup;259;10042;Borup;4628.0;2.6;1775.2
+259-10047 Ejby;259;10047;Ejby;3142.0;1.7;1811.0
+259-10048 Lellinge;259;10048;Lellinge;698.0;0.4;1727.7
+259-10075 Algestrup;259;10075;Algestrup;887.0;0.5;1777.6
+259-10198 Slimminge;259;10198;Slimminge;481.0;0.3;1693.7
+259-10199 Bjæverskov;259;10199;Bjæverskov;2995.0;1.9;1574.7
+259-10244 Nørre Dalby;259;10244;Nørre Dalby;548.0;0.3;2099.6
+259-10313 Køge;259;10313;Køge;36864.0;18.5;1987.7
+259-10316 Vedskølle (del af flere kommuner);259;10316;Vedskølle (del af flere kommuner);283.0;0.3;1080.2
+259-10946 Lille Skensved (del af flere kommuner);259;10946;Lille Skensved (del af flere kommuner);1551.0;1.0;1485.6
+259-10947 Gørslev;259;10947;Gørslev;0.0;0.0;0.0
+259-99997 Uden fast bopæl;259;99997;Uden fast bopæl;175.0;0.0;0.0
+259-99999 Landdistrikter;259;99999;Landdistrikter;6194.0;228.1;27.2
+260-00260 Halsnæs Kommune;260;00260;Halsnæs Kommune;0.0;0.0;0.0
+260-10077 Frederiksværk;260;10077;Frederiksværk;12368.0;8.2;1499.7
+260-10192 Liseleje;260;10192;Liseleje;2556.0;6.0;426.3
+260-10230 Vinderød;260;10230;Vinderød;1052.0;0.7;1582.0
+260-10234 Ølsted;260;10234;Ølsted;1926.0;1.0;1879.0
+260-10699 Hundested;260;10699;Hundested;8588.0;7.6;1131.3
+260-15663 Torup;260;15663;Torup;355.0;0.3;1207.5
+260-18953 Melby;260;18953;Melby;805.0;0.7;1132.2
+260-70012 Evetofte;260;70012;Evetofte;374.0;1.0;357.9
+260-70015 Melby;260;70015;Melby;0.0;0.0;0.0
+260-70124 Ølsted Strandhuse;260;70124;Ølsted Strandhuse;217.0;0.4;542.5
+260-70259 Ølsted Sydstrand;260;70259;Ølsted Sydstrand;304.0;0.9;322.0
+260-99997 Uden fast bopæl;260;99997;Uden fast bopæl;142.0;0.0;0.0
+260-99999 Landdistrikter;260;99999;Landdistrikter;2475.0;95.0;26.0
+265-00265 Roskilde Kommune;265;00265;Roskilde Kommune;0.0;0.0;0.0
+265-10015 Gundsømagle;265;10015;Gundsømagle;2584.0;1.1;2260.7
+265-10033 Ågerup;265;10033;Ågerup;1495.0;0.7;2192.1
+265-10034 Store Valby;265;10034;Store Valby;421.0;0.2;1776.4
+265-10035 Veddelev;265;10035;Veddelev;1146.0;0.6;1959.0
+265-10038 Svogerslev;265;10038;Svogerslev;4379.0;2.0;2222.8
+265-10040 Roskilde;265;10040;Roskilde;50393.0;21.7;2324.4
+265-10185 Jyllinge;265;10185;Jyllinge;10207.0;5.4;1882.9
+265-10260 Herringløse;265;10260;Herringløse;390.0;0.3;1274.5
+265-10856 Gadstrup;265;10856;Gadstrup;1957.0;1.6;1244.9
+265-10888 Vindinge;265;10888;Vindinge;2450.0;1.1;2317.9
+265-10889 Vor Frue;265;10889;Vor Frue;720.0;0.4;1777.8
+265-10942 Havdrup (del af flere kommuner);265;10942;Havdrup (del af flere kommuner);2.0;0.0;1000.0
+265-10943 Snoldelev;265;10943;Snoldelev;647.0;0.4;1494.2
+265-10944 Viby;265;10944;Viby;4659.0;2.6;1787.8
+265-12961 Assendløse;265;12961;Assendløse;0.0;0.0;0.0
+265-12970 Gundsølille;265;12970;Gundsølille;278.0;0.3;911.5
+265-99997 Uden fast bopæl;265;99997;Uden fast bopæl;200.0;0.0;0.0
+265-99999 Landdistrikter;265;99999;Landdistrikter;5087.0;173.4;29.3
+269-00269 Solrød Kommune;269;00269;Solrød Kommune;0.0;0.0;0.0
+269-10319 Solrød;269;10319;Solrød;454.0;0.3;1375.8
+269-10320 Solrød Strand;269;10320;Solrød Strand;15941.0;6.5;2437.5
+269-10942 Havdrup (del af flere kommuner);269;10942;Havdrup (del af flere kommuner);4186.0;2.2;1926.4
+269-10945 Jersie;269;10945;Jersie;516.0;0.4;1347.3
+269-10946 Lille Skensved (del af flere kommuner);269;10946;Lille Skensved (del af flere kommuner);55.0;0.1;495.5
+269-99997 Uden fast bopæl;269;99997;Uden fast bopæl;14.0;0.0;0.0
+269-99999 Landdistrikter;269;99999;Landdistrikter;981.0;30.5;32.1
+270-00270 Gribskov Kommune;270;00270;Gribskov Kommune;0.0;0.0;0.0
+270-10131 Kagerup;270;10131;Kagerup;406.0;0.6;736.8
+270-10132 Annisse Nord;270;10132;Annisse Nord;1501.0;1.2;1298.4
+270-10134 Munkerup;270;10134;Munkerup;0.0;0.0;0.0
+270-10135 Hornbæk-Dronningmølle (del af flere kommuner);270;10135;Hornbæk-Dronningmølle (del af flere kommuner);1686.0;4.6;366.0
+270-10191 Ramløse;270;10191;Ramløse;1612.0;1.1;1525.1
+270-10193 Helsinge;270;10193;Helsinge;8199.0;5.3;1538.3
+270-10214 Skærød;270;10214;Skærød;0.0;0.0;0.0
+270-10215 Tisvilde;270;10215;Tisvilde;1493.0;3.5;427.3
+270-10216 Vejby;270;10216;Vejby;1092.0;0.7;1483.7
+270-10231 Annisse;270;10231;Annisse;296.0;0.3;1147.3
+270-10252 Blistrup;270;10252;Blistrup;1181.0;0.9;1251.1
+270-10253 Esbønderup;270;10253;Esbønderup;1169.0;1.1;1028.1
+270-10254 Græsted;270;10254;Græsted;3627.0;1.9;1914.0
+270-10338 Smidstrup;270;10338;Smidstrup;1317.0;2.7;488.1
+270-10753 Gilleleje;270;10753;Gilleleje;6633.0;5.4;1237.7
+270-10871 Esrum;270;10871;Esrum;526.0;0.2;2191.7
+270-12971 Holløse;270;12971;Holløse;375.0;0.9;398.9
+270-12973 Ørby;270;12973;Ørby;328.0;0.4;735.4
+270-12997 Mårum;270;12997;Mårum;250.0;0.3;919.1
+270-13856 Esbønderup Kohave;270;13856;Esbønderup Kohave;0.0;0.0;0.0
+270-16501 Søborg;270;16501;Søborg;240.0;0.3;952.4
+270-70056 Rågeleje;270;70056;Rågeleje;770.0;3.1;246.4
+270-70058 Holløselund;270;70058;Holløselund;376.0;1.6;240.7
+270-70063 Vejby Strand;270;70063;Vejby Strand;415.0;2.5;168.9
+270-70068 Bækkekrog;270;70068;Bækkekrog;202.0;0.2;918.2
+270-70073 Udsholt Strand;270;70073;Udsholt Strand;1109.0;4.4;253.9
+270-70077 Dronningmølle;270;70077;Dronningmølle;0.0;0.0;0.0
+270-70171 Strand Esbønderup;270;70171;Strand Esbønderup;310.0;0.8;383.2
+270-99997 Uden fast bopæl;270;99997;Uden fast bopæl;0.0;0.0;0.0
+270-99999 Landdistrikter;270;99999;Landdistrikter;6100.0;235.6;25.9
+306-00306 Odsherred Kommune;306;00306;Odsherred Kommune;0.0;0.0;0.0
+306-10083 Stårup;306;10083;Stårup;0.0;0.0;0.0
+306-10084 Højby;306;10084;Højby;1470.0;1.1;1287.2
+306-10157 Rørvig;306;10157;Rørvig;1032.0;1.1;912.5
+306-10261 Strandhuse;306;10261;Strandhuse;218.0;0.2;1009.3
+306-10262 Svinninge;306;10262;Svinninge;0.0;0.0;0.0
+306-10263 Vig;306;10263;Vig;1537.0;1.1;1388.4
+306-10264 Egebjerg;306;10264;Egebjerg;394.0;0.5;841.9
+306-10328 Grevinge;306;10328;Grevinge;646.0;0.4;1587.2
+306-10355 Havnebyen;306;10355;Havnebyen;650.0;0.6;1140.4
+306-10379 Herrestrup;306;10379;Herrestrup;274.0;0.3;1074.5
+306-10410 Havnsø (del af flere kommuner);306;10410;Havnsø (del af flere kommuner);0.0;0.0;0.0
+306-10421 Fårevejle Stationsby;306;10421;Fårevejle Stationsby;1822.0;1.2;1538.9
+306-10422 Hørve;306;10422;Hørve;2514.0;1.5;1655.0
+306-10440 Fårevejle Kirkeby;306;10440;Fårevejle Kirkeby;751.0;0.6;1219.2
+306-10482 Nykøbing S;306;10482;Nykøbing S;5229.0;3.0;1715.6
+306-11001 Asnæs;306;11001;Asnæs;2934.0;2.2;1316.3
+306-11778 Nørre Asmindrup;306;11778;Nørre Asmindrup;640.0;0.6;1092.2
+306-14455 Moseby;306;14455;Moseby;294.0;0.5;569.8
+306-15869 Høve;306;15869;Høve;0.0;0.0;0.0
+306-16807 Kelstrup;306;16807;Kelstrup;229.0;0.2;991.3
+306-70024 Øster Lyng;306;70024;Øster Lyng;303.0;1.5;195.9
+306-70026 Klint;306;70026;Klint;277.0;2.1;129.5
+306-70030 Klintehuse;306;70030;Klintehuse;0.0;0.0;0.0
+306-70079 Ordrup Strand;306;70079;Ordrup Strand;222.0;2.1;107.6
+306-70133 Hønsinge Lyng;306;70133;Hønsinge Lyng;295.0;2.0;150.4
+306-70185 Yderby Lyng;306;70185;Yderby Lyng;244.0;3.1;78.7
+306-70197 Veddinge Bakker;306;70197;Veddinge Bakker;0.0;0.0;0.0
+306-70216 Nyrup;306;70216;Nyrup;271.0;1.5;179.2
+306-70219 Ellinge Lyng;306;70219;Ellinge Lyng;350.0;3.6;96.4
+306-70579 Grevinge Lammefjord;306;70579;Grevinge Lammefjord;228.0;0.9;266.7
+306-99997 Uden fast bopæl;306;99997;Uden fast bopæl;77.0;0.0;0.0
+306-99999 Landdistrikter;306;99999;Landdistrikter;10122.0;322.1;31.4
+316-00316 Holbæk Kommune;316;00316;Holbæk Kommune;0.0;0.0;0.0
+316-10176 Bybjerg;316;10176;Bybjerg;266.0;0.3;831.3
+316-10180 Tjebberup;316;10180;Tjebberup;0.0;0.0;0.0
+316-10276 Regstrup;316;10276;Regstrup;2119.0;1.6;1312.1
+316-10310 Hagested;316;10310;Hagested;464.0;0.5;1010.9
+316-10311 Hørby;316;10311;Hørby;0.0;0.0;0.0
+316-10312 Kirke Eskilstrup;316;10312;Kirke Eskilstrup;719.0;0.4;1720.1
+316-10371 Sønder Jernløse;316;10371;Sønder Jernløse;287.0;0.3;1003.5
+316-10372 Kvanløse;316;10372;Kvanløse;265.0;0.2;1104.2
+316-10373 Undløse;316;10373;Undløse;1133.0;0.9;1210.5
+316-10380 Udby;316;10380;Udby;496.0;0.5;1078.3
+316-10381 Gislinge;316;10381;Gislinge;1543.0;1.0;1538.4
+316-10382 Kundby;316;10382;Kundby;738.0;0.4;1800.0
+316-10392 Ugerløse;316;10392;Ugerløse;976.0;0.7;1412.4
+316-10398 Jyderup;316;10398;Jyderup;4323.0;2.9;1487.6
+316-10439 Svinninge;316;10439;Svinninge;2873.0;1.7;1718.3
+316-10444 Knabstrup;316;10444;Knabstrup;1056.0;0.6;1892.5
+316-10445 Mørkøv;316;10445;Mørkøv;1799.0;1.3;1419.9
+316-10475 Stigs Bjergby;316;10475;Stigs Bjergby;314.0;0.4;811.4
+316-10487 Holbæk;316;10487;Holbæk;28134.0;13.7;2048.0
+316-10488 Mårsø;316;10488;Mårsø;289.0;0.2;1587.9
+316-10489 Tuse;316;10489;Tuse;879.0;0.5;1680.7
+316-10891 Arnakke;316;10891;Arnakke;411.0;0.2;1763.9
+316-11046 Store Merløse;316;11046;Store Merløse;1241.0;0.9;1363.7
+316-11436 Søstrup;316;11436;Søstrup;347.0;0.4;961.2
+316-11805 Ny Hagested;316;11805;Ny Hagested;209.0;0.2;985.8
+316-15677 Gammel Tølløse;316;15677;Gammel Tølløse;259.0;0.2;1161.4
+316-18359 Tølløse;316;18359;Tølløse;3759.0;2.6;1456.4
+316-18360 Vipperød;316;18360;Vipperød;2266.0;1.4;1658.9
+316-18836 Markeslev;316;18836;Markeslev;400.0;0.2;1619.4
+316-70164 Kisserup Strand;316;70164;Kisserup Strand;0.0;0.0;0.0
+316-99997 Uden fast bopæl;316;99997;Uden fast bopæl;74.0;0.0;0.0
+316-99999 Landdistrikter;316;99999;Landdistrikter;13311.0;543.0;24.5
+320-00320 Faxe Kommune;320;00320;Faxe Kommune;0.0;0.0;0.0
+320-10000 Karise;320;10000;Karise;2214.0;1.3;1746.1
+320-10005 Faxe Ladeplads;320;10005;Faxe Ladeplads;2867.0;2.7;1052.9
+320-10072 Haslev;320;10072;Haslev;11748.0;6.6;1776.0
+320-10073 Terslev;320;10073;Terslev;909.0;0.5;1832.7
+320-10137 Teestrup;320;10137;Teestrup;220.0;0.3;880.0
+320-10155 Dalby;320;10155;Dalby;2084.0;1.8;1171.4
+320-10186 Faxe;320;10186;Faxe;4017.0;2.7;1471.4
+320-10268 Førslev;320;10268;Førslev;342.0;0.4;947.4
+320-10343 Rønnede;320;10343;Rønnede;2456.0;2.0;1241.0
+320-11262 Skuderløse;320;11262;Skuderløse;0.0;0.0;0.0
+320-15094 Orup;320;15094;Orup;0.0;0.0;0.0
+320-16271 Store Spjellerup;320;16271;Store Spjellerup;246.0;0.3;793.5
+320-99997 Uden fast bopæl;320;99997;Uden fast bopæl;37.0;0.0;0.0
+320-99999 Landdistrikter;320;99999;Landdistrikter;8776.0;386.4;22.7
+326-00326 Kalundborg Kommune;326;00326;Kalundborg Kommune;0.0;0.0;0.0
+326-10061 Løve;326;10061;Løve;285.0;0.3;916.4
+326-10187 Reersø;326;10187;Reersø;520.0;0.6;811.2
+326-10188 Kirke Helsinge;326;10188;Kirke Helsinge;530.0;0.4;1305.4
+326-10246 Spangsbro;326;10246;Spangsbro;768.0;0.6;1282.1
+326-10247 Kalundborg;326;10247;Kalundborg;16490.0;17.0;972.7
+326-10248 Svallerup;326;10248;Svallerup;264.0;0.3;898.0
+326-10249 Årby;326;10249;Årby;406.0;0.2;1643.7
+326-10270 Sæby;326;10270;Sæby;361.0;0.3;1187.5
+326-10308 Bjerge;326;10308;Bjerge;265.0;0.2;1305.4
+326-10309 Gørlev;326;10309;Gørlev;2466.0;2.1;1196.5
+326-10399 Svebølle;326;10399;Svebølle;2271.0;1.8;1278.0
+326-10410 Havnsø (del af flere kommuner);326;10410;Havnsø (del af flere kommuner);973.0;1.6;592.2
+326-10423 Eskebjerg;326;10423;Eskebjerg;252.0;0.3;926.5
+326-10424 Føllenslev;326;10424;Føllenslev;360.0;0.3;1068.2
+326-10438 Snertinge;326;10438;Snertinge;972.0;0.7;1455.1
+326-10442 Høng;326;10442;Høng;4257.0;2.9;1450.9
+326-10484 Rørby;326;10484;Rørby;759.0;0.6;1365.1
+326-10485 Ubby;326;10485;Ubby;1932.0;1.6;1208.3
+326-10486 Ulstrup;326;10486;Ulstrup;427.0;0.4;1173.1
+326-11261 Sejerby;326;11261;Sejerby;0.0;0.0;0.0
+326-11792 Ugerløse;326;11792;Ugerløse;264.0;0.2;1375.0
+326-14630 Flinterup;326;14630;Flinterup;0.0;0.0;0.0
+326-14631 Store Fuglede;326;14631;Store Fuglede;0.0;0.0;0.0
+326-18694 Store Fuglede Stationsby;326;18694;Store Fuglede Stationsby;218.0;0.2;968.9
+326-70130 Kaldred;326;70130;Kaldred;351.0;2.2;159.0
+326-99997 Uden fast bopæl;326;99997;Uden fast bopæl;112.0;0.0;0.0
+326-99999 Landdistrikter;326;99999;Landdistrikter;13233.0;540.5;24.5
+329-00329 Ringsted Kommune;329;00329;Ringsted Kommune;0.0;0.0;0.0
+329-10011 Jystrup;329;10011;Jystrup;730.0;0.5;1380.0
+329-10063 Gyrstinge;329;10063;Gyrstinge;326.0;0.3;1083.1
+329-10074 Ørslev;329;10074;Ørslev;679.0;0.4;1636.1
+329-10245 Fjællebro;329;10245;Fjællebro;221.0;0.2;1072.8
+329-10255 Kværkeby;329;10255;Kværkeby;613.0;0.4;1661.2
+329-10256 Nordrup;329;10256;Nordrup;238.0;0.3;844.0
+329-10257 Ortved;329;10257;Ortved;238.0;0.1;1597.3
+329-10258 Vigersted;329;10258;Vigersted;487.0;0.4;1255.2
+329-10267 Vetterslev;329;10267;Vetterslev;568.0;0.3;1660.8
+329-10306 Høm;329;10306;Høm;460.0;0.3;1543.6
+329-10307 Ringsted;329;10307;Ringsted;22490.0;13.7;1644.1
+329-16836 Sneslev;329;16836;Sneslev;415.0;0.3;1199.4
+329-16844 Farendløse;329;16844;Farendløse;351.0;0.3;1041.5
+329-99997 Uden fast bopæl;329;99997;Uden fast bopæl;50.0;0.0;0.0
+329-99999 Landdistrikter;329;99999;Landdistrikter;6393.0;277.1;23.1
+330-00330 Slagelse Kommune;330;00330;Slagelse Kommune;0.0;0.0;0.0
+330-10001 Forlev;330;10001;Forlev;2528.0;1.7;1488.8
+330-10002 Korsør;330;10002;Korsør;14702.0;6.7;2203.5
+330-10003 Svenstrup;330;10003;Svenstrup;1935.0;1.3;1481.6
+330-10158 Boeslunde;330;10158;Boeslunde;779.0;0.7;1189.3
+330-10159 Eggeslevmagle;330;10159;Eggeslevmagle;201.0;0.2;1005.0
+330-10189 Kirke Stillinge;330;10189;Kirke Stillinge;704.0;0.7;1083.1
+330-10195 Havrebjerg;330;10195;Havrebjerg;406.0;0.3;1234.0
+330-10196 Sørbymagle;330;10196;Sørbymagle;1119.0;0.8;1359.7
+330-10197 Flakkebjerg;330;10197;Flakkebjerg;447.0;0.4;1277.1
+330-10226 Dalmose;330;10226;Dalmose;1001.0;0.9;1158.6
+330-10275 Bisserup;330;10275;Bisserup;523.0;0.9;602.5
+330-10638 Rude;330;10638;Rude;270.0;0.3;909.1
+330-10697 Skælskør;330;10697;Skælskør;6491.0;4.3;1516.2
+330-11000 Slagelse;330;11000;Slagelse;33433.0;16.2;2061.0
+330-11266 Slots Bjergby;330;11266;Slots Bjergby;799.0;0.6;1444.8
+330-11460 Rosted;330;11460;Rosted;0.0;0.0;0.0
+330-14643 Agersø;330;14643;Agersø;0.0;0.0;0.0
+330-16061 Sønderup;330;16061;Sønderup;207.0;0.2;1024.8
+330-70000 Frølunde Fed;330;70000;Frølunde Fed;223.0;0.8;273.3
+330-70002 Næsby Strand;330;70002;Næsby Strand;0.0;0.0;0.0
+330-70102 Kongsmark Strand;330;70102;Kongsmark Strand;238.0;0.7;317.8
+330-70106 Stillinge Strand;330;70106;Stillinge Strand;330.0;1.3;253.1
+330-99997 Uden fast bopæl;330;99997;Uden fast bopæl;208.0;0.0;0.0
+330-99999 Landdistrikter;330;99999;Landdistrikter;12284.0;529.1;23.2
+336-00336 Stevns Kommune;336;00336;Stevns Kommune;0.0;0.0;0.0
+336-10004 Rødvig;336;10004;Rødvig;1783.0;1.7;1034.2
+336-10054 Hårlev;336;10054;Hårlev;2588.0;1.9;1352.1
+336-10055 Hellested;336;10055;Hellested;568.0;0.6;1019.7
+336-10056 Strøby;336;10056;Strøby;692.0;0.4;1875.3
+336-10057 Klippinge;336;10057;Klippinge;520.0;0.3;1762.7
+336-10058 Magleby;336;10058;Magleby;333.0;0.3;1206.5
+336-10314 Strøby Egede;336;10314;Strøby Egede;4201.0;2.9;1465.8
+336-10315 Valløby;336;10315;Valløby;760.0;0.4;1835.7
+336-10316 Vedskølle (del af flere kommuner);336;10316;Vedskølle (del af flere kommuner);2.0;0.0;400.0
+336-10333 Holtug;336;10333;Holtug;268.0;0.3;873.0
+336-10334 Sigerslev;336;10334;Sigerslev;202.0;0.2;1025.4
+336-10342 Store Heddinge;336;10342;Store Heddinge;3420.0;2.2;1523.4
+336-16277 Havnelev-Boestofte;336;16277;Havnelev-Boestofte;261.0;0.5;548.3
+336-18396 Lyderslev;336;18396;Lyderslev;337.0;0.4;875.3
+336-99997 Uden fast bopæl;336;99997;Uden fast bopæl;65.0;0.0;0.0
+336-99999 Landdistrikter;336;99999;Landdistrikter;6492.0;238.1;27.3
+340-00340 Sorø Kommune;340;00340;Sorø Kommune;0.0;0.0;0.0
+340-10062 Dianalund;340;10062;Dianalund;4017.0;2.5;1603.6
+340-10142 Broby Overdrev;340;10142;Broby Overdrev;222.0;0.2;932.8
+340-10143 Fjenneslev;340;10143;Fjenneslev;823.0;0.5;1626.5
+340-10144 Frederiksberg;340;10144;Frederiksberg;3473.0;1.8;1902.0
+340-10251 Skellebjerg;340;10251;Skellebjerg;0.0;0.0;0.0
+340-10265 Tersløse;340;10265;Tersløse;227.0;0.2;1060.7
+340-10269 Ruds Vedby;340;10269;Ruds Vedby;1764.0;1.1;1587.8
+340-10390 Nyrup;340;10390;Nyrup;464.0;0.3;1750.9
+340-10391 Stenlille;340;10391;Stenlille;2083.0;1.2;1669.1
+340-10404 Vedde;340;10404;Vedde;285.0;0.2;1583.3
+340-10441 Munke Bjergby;340;10441;Munke Bjergby;311.0;0.3;1019.7
+340-10472 Sorø;340;10472;Sorø;7927.0;5.4;1459.3
+340-11580 Niløse;340;11580;Niløse;210.0;0.3;662.5
+340-17856 Lynge;340;17856;Lynge;0.0;0.0;0.0
+340-99997 Uden fast bopæl;340;99997;Uden fast bopæl;38.0;0.0;0.0
+340-99999 Landdistrikter;340;99999;Landdistrikter;7751.0;294.3;26.3
+350-00350 Lejre Kommune;350;00350;Lejre Kommune;0.0;0.0;0.0
+350-10029 Gershøj;350;10029;Gershøj;666.0;0.7;896.4
+350-10036 Gevninge;350;10036;Gevninge;1672.0;0.8;2077.0
+350-10037 Lejre;350;10037;Lejre;2411.0;1.6;1528.9
+350-10039 Øm;350;10039;Øm;489.0;0.4;1397.1
+350-10163 Kirke Såby;350;10163;Kirke Såby;1695.0;1.1;1525.7
+350-10164 Torkilstrup;350;10164;Torkilstrup;241.0;0.2;1469.5
+350-10181 Kirke Hyllinge;350;10181;Kirke Hyllinge;2159.0;1.4;1509.8
+350-10182 Sæby;350;10182;Sæby;333.0;0.3;1332.0
+350-10743 Kirke Hvalsø;350;10743;Kirke Hvalsø;4086.0;2.3;1789.0
+350-10815 Ejby;350;10815;Ejby;1902.0;1.2;1570.6
+350-10852 Lyndby;350;10852;Lyndby;574.0;0.3;1663.8
+350-10853 Englerup;350;10853;Englerup;304.0;0.2;1240.8
+350-10854 Vester Såby;350;10854;Vester Såby;463.0;0.3;1596.6
+350-10855 Osted;350;10855;Osted;2156.0;1.5;1448.0
+350-10890 Kirke Sonnerup;350;10890;Kirke Sonnerup;940.0;0.5;1718.5
+350-12965 Herslev;350;12965;Herslev;222.0;0.1;1597.1
+350-15675 Lindenborg;350;15675;Lindenborg;268.0;0.4;718.5
+350-70087 Kyndeløse Sydmark;350;70087;Kyndeløse Sydmark;454.0;1.3;343.4
+350-99997 Uden fast bopæl;350;99997;Uden fast bopæl;56.0;0.0;0.0
+350-99999 Landdistrikter;350;99999;Landdistrikter;6311.0;224.2;28.1
+360-00360 Lolland Kommune;360;00360;Lolland Kommune;0.0;0.0;0.0
+360-10335 Dannemare;360;10335;Dannemare;428.0;0.5;850.9
+360-10345 Rødbyhavn;360;10345;Rødbyhavn;1669.0;2.2;757.9
+360-10419 Rødby;360;10419;Rødby;2085.0;1.6;1292.6
+360-10427 Errindlev;360;10427;Errindlev;284.0;0.3;863.2
+360-10443 Langø;360;10443;Langø;321.0;0.4;773.5
+360-10446 Horslunde;360;10446;Horslunde;627.0;0.8;831.6
+360-10448 Utterslev;360;10448;Utterslev;235.0;0.4;549.1
+360-10449 Sandby;360;10449;Sandby;361.0;0.4;878.3
+360-10450 Branderslev;360;10450;Branderslev;221.0;0.2;956.7
+360-10491 Holeby;360;10491;Holeby;1447.0;1.4;1064.0
+360-10492 Hillested;360;10492;Hillested;233.0;0.3;797.9
+360-10506 Nakskov;360;10506;Nakskov;12758.0;8.7;1465.6
+360-10512 Stokkemarke;360;10512;Stokkemarke;418.0;0.5;767.0
+360-10513 Søllested;360;10513;Søllested;1444.0;1.3;1148.8
+360-10514 Nørreballe;360;10514;Nørreballe;520.0;0.6;874.0
+360-10527 Bandholm;360;10527;Bandholm;558.0;0.6;965.4
+360-10528 Hunseby;360;10528;Hunseby;425.0;0.4;974.8
+360-10542 Birket;360;10542;Birket;0.0;0.0;0.0
+360-10556 Vesterby;360;10556;Vesterby;0.0;0.0;0.0
+360-10559 Anderstrup;360;10559;Anderstrup;0.0;0.0;0.0
+360-10560 Maribo;360;10560;Maribo;5735.0;4.1;1406.0
+360-99997 Uden fast bopæl;360;99997;Uden fast bopæl;106.0;0.0;0.0
+360-99999 Landdistrikter;360;99999;Landdistrikter;12410.0;861.4;14.4
+370-00370 Næstved Kommune;370;00370;Næstved Kommune;0.0;0.0;0.0
+370-10053 Brøderup;370;10053;Brøderup;0.0;0.0;0.0
+370-10067 Everdrup;370;10067;Everdrup;258.0;0.2;1183.5
+370-10086 Glumsø;370;10086;Glumsø;2167.0;1.4;1586.4
+370-10110 Fensmark;370;10110;Fensmark;4977.0;3.2;1536.6
+370-10111 Gelsted;370;10111;Gelsted;1244.0;0.7;1902.1
+370-10112 Holme-Olstrup;370;10112;Holme-Olstrup;1185.0;1.3;908.7
+370-10113 Næstved;370;10113;Næstved;43234.0;21.3;2027.5
+370-10114 Rønnebæk;370;10114;Rønnebæk;557.0;0.3;2126.0
+370-10115 Mogenstrup;370;10115;Mogenstrup;1855.0;1.6;1173.3
+370-10145 Sandved;370;10145;Sandved;727.0;0.5;1436.8
+370-10146 Tornemark;370;10146;Tornemark;293.0;0.3;887.9
+370-10147 Hyllinge;370;10147;Hyllinge;463.0;0.4;1146.0
+370-10148 Menstrup;370;10148;Menstrup;234.0;0.2;1017.4
+370-10149 Skraverup;370;10149;Skraverup;220.0;0.2;1094.5
+370-10217 Karrebæksminde;370;10217;Karrebæksminde;1810.0;1.6;1106.4
+370-10229 Lov;370;10229;Lov;562.0;0.4;1297.9
+370-10266 Toksværd;370;10266;Toksværd;829.0;0.7;1191.1
+370-10474 Fuglebjerg;370;10474;Fuglebjerg;2192.0;1.5;1498.3
+370-10494 Skelby;370;10494;Skelby;278.0;0.2;1144.0
+370-10653 Tappernøje;370;10653;Tappernøje;1647.0;1.7;966.0
+370-10948 Herlufmagle;370;10948;Herlufmagle;1419.0;1.1;1248.0
+370-10949 Tybjerglille Bakker;370;10949;Tybjerglille Bakker;339.0;0.2;1412.5
+370-16822 Gangesbro;370;16822;Gangesbro;0.0;0.0;0.0
+370-16913 Vallensved;370;16913;Vallensved;217.0;0.2;1014.0
+370-70112 Enø By;370;70112;Enø By;333.0;1.4;232.9
+370-99997 Uden fast bopæl;370;99997;Uden fast bopæl;261.0;0.0;0.0
+370-99999 Landdistrikter;370;99999;Landdistrikter;15280.0;636.0;24.0
+376-00376 Guldborgsund Kommune;376;00376;Guldborgsund Kommune;0.0;0.0;0.0
+376-10016 Grænge;376;10016;Grænge;383.0;0.5;843.6
+376-10021 Toreby;376;10021;Toreby;614.0;0.8;785.2
+376-10022 Hasselø Plantage;376;10022;Hasselø Plantage;216.0;0.1;1687.5
+376-10023 Nagelsti;376;10023;Nagelsti;516.0;0.3;1582.8
+376-10024 Nykøbing F;376;10024;Nykøbing F;16904.0;8.0;2110.6
+376-10025 Sundby;376;10025;Sundby;2843.0;2.3;1218.1
+376-10026 Systofte Skovby;376;10026;Systofte Skovby;340.0;0.2;1743.6
+376-10027 Frejlev;376;10027;Frejlev;0.0;0.0;0.0
+376-10028 Kettinge;376;10028;Kettinge;541.0;0.6;920.1
+376-10116 Møllehave;376;10116;Møllehave;0.0;0.0;0.0
+376-10122 Bangsebro;376;10122;Bangsebro;0.0;0.0;0.0
+376-10123 Eskilstrup;376;10123;Eskilstrup;1094.0;0.9;1246.0
+376-10124 Stubberup;376;10124;Stubberup;0.0;0.0;0.0
+376-10125 Tingsted;376;10125;Tingsted;226.0;0.2;1061.0
+376-10126 Ønslev;376;10126;Ønslev;392.0;0.3;1187.9
+376-10127 Vålse;376;10127;Vålse;215.0;0.3;853.2
+376-10128 Orehoved;376;10128;Orehoved;463.0;0.5;964.6
+376-10129 Øster Kippinge;376;10129;Øster Kippinge;249.0;0.3;841.2
+376-10332 Nørre Alslev;376;10332;Nørre Alslev;2393.0;2.3;1058.4
+376-10383 Nysted;376;10383;Nysted;1359.0;1.3;1015.7
+376-10387 Gedser;376;10387;Gedser;717.0;0.9;781.0
+376-10406 Væggerløse;376;10406;Væggerløse;1332.0;1.1;1261.4
+376-10407 Idestrup;376;10407;Idestrup;1174.0;0.9;1340.2
+376-10408 Sønder Vedby Skovhuse;376;10408;Sønder Vedby Skovhuse;291.0;0.2;1774.4
+376-10426 Øster Ulslev;376;10426;Øster Ulslev;266.0;0.3;933.3
+376-10566 Sakskøbing;376;10566;Sakskøbing;4545.0;3.5;1294.1
+376-10849 Horbelev;376;10849;Horbelev;583.0;0.6;1050.5
+376-10850 Horreby;376;10850;Horreby;302.0;0.3;1052.3
+376-10851 Guldborg;376;10851;Guldborg;555.0;0.5;1196.1
+376-10886 Stubbekøbing;376;10886;Stubbekøbing;2304.0;1.8;1298.8
+376-13628 Karleby;376;13628;Karleby;0.0;0.0;0.0
+376-16177 Radsted;376;16177;Radsted;0.0;0.0;0.0
+376-17100 Nørre Vedby;376;17100;Nørre Vedby;0.0;0.0;0.0
+376-18595 Nordbyen;376;18595;Nordbyen;1733.0;1.2;1395.3
+376-70200 Nykøbing Strandhuse;376;70200;Nykøbing Strandhuse;305.0;3.0;100.7
+376-70204 Marielyst;376;70204;Marielyst;725.0;3.9;186.7
+376-99997 Uden fast bopæl;376;99997;Uden fast bopæl;136.0;0.0;0.0
+376-99999 Landdistrikter;376;99999;Landdistrikter;17541.0;863.7;20.3
+390-00390 Vordingborg Kommune;390;00390;Vordingborg Kommune;0.0;0.0;0.0
+390-10050 Køng;390;10050;Køng;927.0;1.2;779.6
+390-10051 Lundby;390;10051;Lundby;816.0;0.6;1342.1
+390-10052 Bårse;390;10052;Bårse;529.0;0.5;1113.7
+390-10150 Stensved;390;10150;Stensved;1620.0;1.0;1638.0
+390-10151 Klarskov;390;10151;Klarskov;234.0;0.2;1529.4
+390-10227 Neder Vindinge;390;10227;Neder Vindinge;0.0;0.0;0.0
+390-10228 Vordingborg;390;10228;Vordingborg;12014.0;8.1;1490.0
+390-10326 Borre;390;10326;Borre;267.0;0.5;571.7
+390-10330 Kalvehave;390;10330;Kalvehave;628.0;0.6;1071.7
+390-10331 Stege;390;10331;Stege;3813.0;2.7;1413.3
+390-10388 Klintholm Havn;390;10388;Klintholm Havn;0.0;0.0;0.0
+390-10397 Bogø By;390;10397;Bogø By;916.0;1.6;560.2
+390-10428 Store Damme;390;10428;Store Damme;605.0;0.7;829.9
+390-10612 Præstø;390;10612;Præstø;3864.0;2.5;1560.6
+390-10751 Skibinge;390;10751;Skibinge;361.0;0.3;1215.5
+390-10762 Gammel Kalvehave;390;10762;Gammel Kalvehave;788.0;0.9;874.6
+390-10881 Allerslev;390;10881;Allerslev;249.0;0.3;844.1
+390-10882 Nyråd;390;10882;Nyråd;2514.0;1.6;1590.1
+390-10883 Ørslev;390;10883;Ørslev;1902.0;1.6;1159.0
+390-10884 Langebæk;390;10884;Langebæk;241.0;0.2;1057.0
+390-10885 Mern;390;10885;Mern;1036.0;0.7;1392.5
+390-17173 Udby;390;17173;Udby;0.0;0.0;0.0
+390-99997 Uden fast bopæl;390;99997;Uden fast bopæl;133.0;0.0;0.0
+390-99999 Landdistrikter;390;99999;Landdistrikter;12580.0;593.8;21.2
+400-00400 Bornholm Kommune;400;00400;Bornholm Kommune;0.0;0.0;0.0
+400-10065 Allinge-Sandvig;400;10065;Allinge-Sandvig;1517.0;1.8;849.4
+400-10066 Hasle;400;10066;Hasle;1665.0;1.2;1446.6
+400-10281 Svaneke;400;10281;Svaneke;1044.0;0.7;1489.3
+400-10282 Årsdale;400;10282;Årsdale;389.0;0.4;1089.6
+400-10283 Aakirkeby;400;10283;Aakirkeby;2112.0;1.7;1235.1
+400-10284 Pedersker;400;10284;Pedersker;245.0;0.2;1093.8
+400-10285 Snogebæk;400;10285;Snogebæk;701.0;1.3;522.0
+400-10586 Nexø;400;10586;Nexø;3654.0;2.2;1648.9
+400-10605 Tejn;400;10605;Tejn;899.0;1.5;607.4
+400-10647 Østerlars;400;10647;Østerlars;243.0;0.3;883.6
+400-10648 Listed;400;10648;Listed;210.0;0.3;606.9
+400-10649 Østermarie;400;10649;Østermarie;480.0;0.5;939.3
+400-10810 Lobbæk;400;10810;Lobbæk;356.0;0.3;1062.7
+400-10857 Nyker;400;10857;Nyker;707.0;0.5;1383.6
+400-10872 Vestermarie;400;10872;Vestermarie;253.0;0.2;1160.6
+400-10880 Klemensker;400;10880;Klemensker;629.0;0.6;1046.6
+400-11152 Rønne;400;11152;Rønne;13723.0;8.1;1686.7
+400-11444 Balka;400;11444;Balka;216.0;0.6;373.1
+400-18347 Muleby;400;18347;Muleby;533.0;0.5;1117.4
+400-18348 Nylars;400;18348;Nylars;225.0;0.3;868.7
+400-18349 Gudhjem;400;18349;Gudhjem;701.0;0.8;844.6
+400-99997 Uden fast bopæl;400;99997;Uden fast bopæl;65.0;0.0;0.0
+400-99999 Landdistrikter;400;99999;Landdistrikter;9128.0;564.3;16.2
+410-00410 Middelfart Kommune;410;00410;Middelfart Kommune;0.0;0.0;0.0
+410-10106 Middelfart;410;10106;Middelfart;15202.0;10.6;1440.5
+410-10107 Vejlby;410;10107;Vejlby;234.0;0.3;924.9
+410-10386 Brenderup;410;10386;Brenderup;1403.0;1.5;917.6
+410-10412 Fjelsted;410;10412;Fjelsted;294.0;0.5;628.2
+410-10414 Harndrup;410;10414;Harndrup;637.0;0.8;751.2
+410-10519 Gelsted (del af flere kommuner);410;10519;Gelsted (del af flere kommuner);1708.0;1.4;1186.1
+410-10670 Båring;410;10670;Båring;940.0;0.9;1021.7
+410-10671 Nørre Aaby;410;10671;Nørre Aaby;2954.0;2.3;1291.1
+410-10701 Strib;410;10701;Strib;4526.0;3.1;1482.5
+410-11078 Ejby;410;11078;Ejby;2020.0;1.9;1039.1
+410-11272 Kauslunde;410;11272;Kauslunde;550.0;0.6;906.1
+410-12737 Røjle;410;12737;Røjle;246.0;0.2;1098.2
+410-13391 Føns;410;13391;Føns;0.0;0.0;0.0
+410-99997 Uden fast bopæl;410;99997;Uden fast bopæl;34.0;0.0;0.0
+410-99999 Landdistrikter;410;99999;Landdistrikter;7345.0;274.7;26.7
+411-00411 Christiansø;411;00411;Christiansø;0.0;0.0;0.0
+411-99999 Landdistrikter;411;99999;Landdistrikter;78.0;0.4;195.0
+420-00420 Assens Kommune;420;00420;Assens Kommune;0.0;0.0;0.0
+420-10369 Verninge;420;10369;Verninge;781.0;0.7;1197.9
+420-10413 Grønnemose;420;10413;Grønnemose;392.0;0.6;638.4
+420-10432 Turup;420;10432;Turup;328.0;0.3;1233.1
+420-10433 Glamsbjerg;420;10433;Glamsbjerg;3239.0;3.1;1051.3
+420-10473 Assens;420;10473;Assens;6231.0;4.7;1325.5
+420-10511 Skallebølle (del af flere kommuner);420;10511;Skallebølle (del af flere kommuner);710.0;0.5;1312.4
+420-10519 Gelsted (del af flere kommuner);420;10519;Gelsted (del af flere kommuner);10.0;0.0;833.3
+420-10520 Tommerup Stationsby;420;10520;Tommerup Stationsby;2460.0;1.5;1628.1
+420-10538 Tommerup;420;10538;Tommerup;1588.0;1.4;1146.6
+420-10540 Jordløse;420;10540;Jordløse;350.0;0.4;790.1
+420-10543 Brylle;420;10543;Brylle;1220.0;1.0;1165.2
+420-10551 Ebberup;420;10551;Ebberup;1263.0;1.2;1046.4
+420-10552 Flemløse;420;10552;Flemløse;631.0;0.8;780.0
+420-10553 Snave;420;10553;Snave;220.0;0.3;709.7
+420-10554 Haarby;420;10554;Haarby;2462.0;2.4;1037.9
+420-10570 Aarup;420;10570;Aarup;3157.0;2.3;1378.0
+420-10689 Skalbjerg;420;10689;Skalbjerg;627.0;0.5;1194.3
+420-10690 Vissenbjerg;420;10690;Vissenbjerg;3193.0;2.7;1201.7
+420-10707 Ørsted;420;10707;Ørsted;238.0;0.2;1112.2
+420-11092 Sandager;420;11092;Sandager;0.0;0.0;0.0
+420-11710 Torø Huse;420;11710;Torø Huse;0.0;0.0;0.0
+420-11961 Nårup;420;11961;Nårup;214.0;0.2;888.0
+420-99997 Uden fast bopæl;420;99997;Uden fast bopæl;56.0;0.0;0.0
+420-99999 Landdistrikter;420;99999;Landdistrikter;12020.0;486.6;24.7
+430-00430 Faaborg-Midtfyn Kommune;430;00430;Faaborg-Midtfyn Kommune;0.0;0.0;0.0
+430-10327 Espe;430;10327;Espe;518.0;0.4;1266.5
+430-10351 Gislev;430;10351;Gislev;1284.0;1.0;1233.4
+430-10358 Millinge;430;10358;Millinge;530.0;0.5;985.1
+430-10359 Diernæs;430;10359;Diernæs;304.0;0.2;1363.2
+430-10360 Svanninge;430;10360;Svanninge;235.0;0.2;1224.0
+430-10363 Faaborg;430;10363;Faaborg;7097.0;4.6;1559.4
+430-10364 Bøjden;430;10364;Bøjden;291.0;0.3;895.4
+430-10365 Faldsled;430;10365;Faldsled;526.0;0.7;778.1
+430-10366 Horne;430;10366;Horne;875.0;0.8;1085.6
+430-10367 Håstrup;430;10367;Håstrup;342.0;0.4;763.4
+430-10370 Vejle;430;10370;Vejle;1068.0;0.9;1201.4
+430-10395 Vester Hæsinge;430;10395;Vester Hæsinge;419.0;0.4;1019.5
+430-10396 Korinth;430;10396;Korinth;1039.0;0.9;1106.5
+430-10451 Ringe;430;10451;Ringe;5851.0;4.7;1242.3
+430-10452 Vantinge;430;10452;Vantinge;208.0;0.2;859.5
+430-10476 Ryslinge;430;10476;Ryslinge;1782.0;1.4;1281.1
+430-10478 Nørre Broby;430;10478;Nørre Broby;1471.0;1.4;1051.5
+430-10479 Brobyværk;430;10479;Brobyværk;1064.0;1.0;1071.5
+430-10480 Heden;430;10480;Heden;215.0;0.3;770.6
+430-10490 Søllinge;430;10490;Søllinge;228.0;0.3;817.2
+430-10507 Dyreborg;430;10507;Dyreborg;0.0;0.0;0.0
+430-10535 Nørre Lyndelse;430;10535;Nørre Lyndelse;1964.0;1.4;1405.9
+430-10536 Årslev;430;10536;Årslev;3823.0;2.8;1390.2
+430-10537 Nørre Søby;430;10537;Nørre Søby;843.0;0.6;1421.6
+430-10541 Vester Åby;430;10541;Vester Åby;839.0;0.8;1091.0
+430-10558 Kværndrup;430;10558;Kværndrup;1735.0;1.3;1361.9
+430-10562 Ferritslev;430;10562;Ferritslev;974.0;1.0;1000.0
+430-10563 Rolsted;430;10563;Rolsted;465.0;0.4;1226.9
+430-10564 Tarup;430;10564;Tarup;301.0;0.3;1171.2
+430-11656 Fjellerup;430;11656;Fjellerup;210.0;0.2;1105.3
+430-12121 Pederstrup;430;12121;Pederstrup;0.0;0.0;0.0
+430-14974 Herringe;430;14974;Herringe;211.0;0.3;817.8
+430-14977 Krarup;430;14977;Krarup;202.0;0.3;711.3
+430-17176 Åstrup;430;17176;Åstrup;215.0;0.3;793.4
+430-99997 Uden fast bopæl;430;99997;Uden fast bopæl;52.0;0.0;0.0
+430-99999 Landdistrikter;430;99999;Landdistrikter;14195.0;603.5;23.5
+440-00440 Kerteminde Kommune;440;00440;Kerteminde Kommune;0.0;0.0;0.0
+440-10495 Munkebo;440;10495;Munkebo;5599.0;3.8;1460.4
+440-10572 Rynkeby;440;10572;Rynkeby;620.0;0.4;1458.8
+440-10573 Rønninge;440;10573;Rønninge;264.0;0.3;953.1
+440-10672 Dalby;440;10672;Dalby;326.0;0.3;1031.6
+440-10673 Mesinge;440;10673;Mesinge;320.0;0.3;1103.4
+440-10674 Kerteminde;440;10674;Kerteminde;5903.0;3.4;1727.5
+440-10675 Revninge;440;10675;Revninge;238.0;0.3;826.4
+440-10676 Vejruplund;440;10676;Vejruplund;0.0;0.0;0.0
+440-10709 Birkende;440;10709;Birkende;567.0;0.6;965.9
+440-10711 Langeskov;440;10711;Langeskov;4057.0;3.0;1342.5
+440-11850 Kertinge;440;11850;Kertinge;237.0;0.3;757.2
+440-12863 Marslev;440;12863;Marslev;688.0;0.7;1045.6
+440-16146 Skrækkenborg;440;16146;Skrækkenborg;285.0;0.1;2050.4
+440-99997 Uden fast bopæl;440;99997;Uden fast bopæl;65.0;0.0;0.0
+440-99999 Landdistrikter;440;99999;Landdistrikter;4605.0;192.2;24.0
+450-00450 Nyborg Kommune;450;00450;Nyborg Kommune;0.0;0.0;0.0
+450-10349 Vindinge;450;10349;Vindinge;443.0;0.3;1616.8
+450-10350 Måre;450;10350;Måre;578.0;0.5;1209.2
+450-10352 Refsvindinge;450;10352;Refsvindinge;576.0;0.4;1336.4
+450-10477 Ørbæk;450;10477;Ørbæk;1628.0;1.4;1175.5
+450-10508 Hjulby;450;10508;Hjulby;397.0;0.4;1047.5
+450-10509 Nyborg;450;10509;Nyborg;17192.0;11.2;1529.7
+450-10532 Frørup;450;10532;Frørup;430.0;0.3;1419.1
+450-10533 Svindinge;450;10533;Svindinge;307.0;0.3;1069.7
+450-10534 Tårup;450;10534;Tårup;292.0;0.3;938.9
+450-10557 Ellinge;450;10557;Ellinge;249.0;0.3;996.0
+450-10574 Skellerup;450;10574;Skellerup;360.0;0.4;978.3
+450-10576 Ullerslev;450;10576;Ullerslev;2788.0;2.1;1322.0
+450-11271 Aunslev;450;11271;Aunslev;413.0;0.3;1218.3
+450-12166 Langå;450;12166;Langå;0.0;0.0;0.0
+450-17167 Kogsbølle;450;17167;Kogsbølle;0.0;0.0;0.0
+450-99997 Uden fast bopæl;450;99997;Uden fast bopæl;45.0;0.0;0.0
+450-99999 Landdistrikter;450;99999;Landdistrikter;6444.0;258.6;24.9
+461-00461 Odense Kommune;461;00461;Odense Kommune;0.0;0.0;0.0
+461-10356 Seden;461;10356;Seden;0.0;0.0;0.0
+461-10357 Seden Strand;461;10357;Seden Strand;341.0;0.2;1623.8
+461-10385 Næsbyhoved-Broby;461;10385;Næsbyhoved-Broby;1532.0;0.9;1744.9
+461-10417 Bullerup;461;10417;Bullerup;0.0;0.0;0.0
+461-10431 Lumby;461;10431;Lumby;791.0;0.5;1614.3
+461-10463 Allese;461;10463;Allese;273.0;0.3;886.4
+461-10493 Stige;461;10493;Stige;0.0;0.0;0.0
+461-10510 Ejlstrup;461;10510;Ejlstrup;1314.0;0.6;2197.3
+461-10511 Skallebølle (del af flere kommuner);461;10511;Skallebølle (del af flere kommuner);4.0;0.0;1000.0
+461-10521 Blommenslyst;461;10521;Blommenslyst;539.0;0.7;784.6
+461-10522 Brændekilde;461;10522;Brændekilde;302.0;0.3;1184.3
+461-10525 Holmstrup;461;10525;Holmstrup;245.0;0.2;1622.5
+461-10539 Bellinge;461;10539;Bellinge;4661.0;2.7;1741.8
+461-10565 Sankt Klemens;461;10565;Sankt Klemens;2959.0;1.4;2148.9
+461-10571 Fangel;461;10571;Fangel;478.0;0.4;1284.9
+461-10677 Odense;461;10677;Odense;176683.0;79.0;2237.5
+461-10678 Åsum;461;10678;Åsum;407.0;0.5;752.3
+461-10685 Fraugde;461;10685;Fraugde;1917.0;0.9;2108.9
+461-10687 Over Holluf;461;10687;Over Holluf;1546.0;0.7;2335.3
+461-10710 Davinde;461;10710;Davinde;230.0;0.3;737.2
+461-10821 Højby;461;10821;Højby;0.0;0.0;0.0
+461-11750 Bredbjerg (del af flere kommuner);461;11750;Bredbjerg (del af flere kommuner);24.0;0.1;307.7
+461-13456 Birkum;461;13456;Birkum;204.0;0.3;778.6
+461-99997 Uden fast bopæl;461;99997;Uden fast bopæl;515.0;0.0;0.0
+461-99999 Landdistrikter;461;99999;Landdistrikter;5598.0;215.9;25.9
+479-00479 Svendborg Kommune;479;00479;Svendborg Kommune;0.0;0.0;0.0
+479-10436 Hundstrup;479;10436;Hundstrup;235.0;0.2;971.1
+479-10437 Stenstrup;479;10437;Stenstrup;1756.0;1.4;1279.9
+479-10447 Kirkeby;479;10447;Kirkeby;615.0;0.3;1798.2
+479-10544 Gudbjerg;479;10544;Gudbjerg;488.0;0.4;1181.6
+479-10545 Gudme;479;10545;Gudme;932.0;0.7;1425.1
+479-10546 Hesselager;479;10546;Hesselager;862.0;0.6;1353.2
+479-10547 Lundeborg;479;10547;Lundeborg;407.0;0.3;1186.6
+479-10548 Oure;479;10548;Oure;539.0;0.7;813.0
+479-10549 Vejstrup;479;10549;Vejstrup;441.0;0.4;1004.6
+479-10561 Rantzausminde;479;10561;Rantzausminde;1887.0;1.2;1614.2
+479-10567 Ollerup;479;10567;Ollerup;1438.0;1.1;1364.3
+479-10568 Vester Skerninge;479;10568;Vester Skerninge;1094.0;0.9;1189.1
+479-10569 Ulbølle;479;10569;Ulbølle;595.0;0.5;1116.3
+479-10630 Svendborg;479;10630;Svendborg;27281.0;13.6;2000.4
+479-10639 Thurø By;479;10639;Thurø By;3232.0;1.8;1793.6
+479-10640 Troense;479;10640;Troense;1144.0;0.8;1380.0
+479-10641 Vindeby;479;10641;Vindeby;2332.0;1.3;1791.1
+479-10704 Åbyskov;479;10704;Åbyskov;274.0;0.2;1457.4
+479-10705 Skårup;479;10705;Skårup;1813.0;1.1;1607.3
+479-10706 Bregninge;479;10706;Bregninge;0.0;0.0;0.0
+479-10968 Bjerreby;479;10968;Bjerreby;336.0;0.3;1033.8
+479-10969 Lundby;479;10969;Lundby;293.0;0.3;1069.3
+479-11094 Landet;479;11094;Landet;286.0;0.2;1615.8
+479-12249 Strammelse;479;12249;Strammelse;0.0;0.0;0.0
+479-99997 Uden fast bopæl;479;99997;Uden fast bopæl;83.0;0.0;0.0
+479-99999 Landdistrikter;479;99999;Landdistrikter;10147.0;387.0;26.2
+480-00480 Nordfyns Kommune;480;00480;Nordfyns Kommune;0.0;0.0;0.0
+480-10152 Veflinge;480;10152;Veflinge;876.0;0.8;1157.2
+480-10153 Lunde;480;10153;Lunde;367.0;0.5;804.8
+480-10154 Søndersø;480;10154;Søndersø;3189.0;2.6;1220.4
+480-10160 Morud;480;10160;Morud;1745.0;1.5;1198.5
+480-10293 Særslev;480;10293;Særslev;783.0;0.8;1024.9
+480-10294 Kappendrup;480;10294;Kappendrup;276.0;0.2;1475.9
+480-10295 Skamby;480;10295;Skamby;445.0;0.5;827.1
+480-10409 Bogense;480;10409;Bogense;3815.0;2.5;1535.8
+480-10411 Hårslev;480;10411;Hårslev;351.0;0.5;703.4
+480-10415 Klintebjerg;480;10415;Klintebjerg;0.0;0.0;0.0
+480-10416 Østrup;480;10416;Østrup;269.0;0.4;645.1
+480-10420 Uggerslev;480;10420;Uggerslev;365.0;0.4;877.4
+480-10497 Otterup;480;10497;Otterup;5132.0;3.9;1330.9
+480-11750 Bredbjerg (del af flere kommuner);480;11750;Bredbjerg (del af flere kommuner);205.0;0.3;636.6
+480-16648 Gamby;480;16648;Gamby;0.0;0.0;0.0
+480-99997 Uden fast bopæl;480;99997;Uden fast bopæl;28.0;0.0;0.0
+480-99999 Landdistrikter;480;99999;Landdistrikter;11600.0;437.5;26.5
+482-00482 Langeland Kommune;482;00482;Langeland Kommune;0.0;0.0;0.0
+482-10271 Snøde;482;10271;Snøde;288.0;0.6;497.4
+482-10272 Lohals;482;10272;Lohals;441.0;0.8;572.0
+482-10824 Rudkøbing;482;10824;Rudkøbing;4586.0;3.1;1463.3
+482-10825 Tullebølle;482;10825;Tullebølle;790.0;0.8;997.5
+482-10896 Bagenkop;482;10896;Bagenkop;468.0;0.5;893.1
+482-10957 Humble;482;10957;Humble;608.0;0.6;968.2
+482-10958 Lindelse;482;10958;Lindelse;326.0;0.3;1112.6
+482-10967 Tryggelev;482;10967;Tryggelev;0.0;0.0;0.0
+482-11589 Spodsbjerg;482;11589;Spodsbjerg;202.0;0.7;300.6
+482-99997 Uden fast bopæl;482;99997;Uden fast bopæl;9.0;0.0;0.0
+482-99999 Landdistrikter;482;99999;Landdistrikter;4860.0;281.8;17.2
+492-00492 Ærø Kommune;492;00492;Ærø Kommune;0.0;0.0;0.0
+492-10723 Marstal;492;10723;Marstal;2232.0;1.4;1572.9
+492-10838 Søby;492;10838;Søby;447.0;0.6;711.8
+492-10839 Bregninge;492;10839;Bregninge;0.0;0.0;0.0
+492-10910 Vindeballe;492;10910;Vindeballe;0.0;0.0;0.0
+492-10959 Ommel;492;10959;Ommel;294.0;0.3;1176.0
+492-10960 Ærøskøbing;492;10960;Ærøskøbing;939.0;0.8;1127.3
+492-99997 Uden fast bopæl;492;99997;Uden fast bopæl;7.0;0.0;0.0
+492-99999 Landdistrikter;492;99999;Landdistrikter;2258.0;87.0;26.0
+510-00510 Haderslev Kommune;510;00510;Haderslev Kommune;0.0;0.0;0.0
+510-10078 Nustrup;510;10078;Nustrup;558.0;0.6;1009.0
+510-10346 Mølby;510;10346;Mølby;249.0;0.3;988.1
+510-10429 Hejsager;510;10429;Hejsager;283.0;0.4;748.7
+510-10430 Starup;510;10430;Starup;2517.0;1.6;1538.5
+510-10613 Øsby;510;10613;Øsby;463.0;0.4;1140.4
+510-10702 Fjelstrup;510;10702;Fjelstrup;561.0;0.5;1168.8
+510-10725 Hoptrup;510;10725;Hoptrup;672.0;0.7;1021.3
+510-10731 Årøsund;510;10731;Årøsund;323.0;0.3;984.8
+510-10775 Over Jerstal;510;10775;Over Jerstal;1093.0;0.9;1202.4
+510-10777 Bevtoft;510;10777;Bevtoft;752.0;0.7;1114.1
+510-10778 Kelstrup;510;10778;Kelstrup;203.0;0.2;971.3
+510-10779 Haderslev;510;10779;Haderslev;21955.0;12.0;1822.1
+510-10786 Vedsted;510;10786;Vedsted;375.0;0.3;1241.7
+510-10973 Sønder Vilstrup;510;10973;Sønder Vilstrup;408.0;0.5;902.7
+510-11074 Gram;510;11074;Gram;2562.0;2.2;1190.5
+510-11193 Arnum;510;11193;Arnum;528.0;0.7;748.9
+510-11238 Fole;510;11238;Fole;218.0;0.2;923.7
+510-18352 Sommersted;510;18352;Sommersted;1102.0;1.0;1072.0
+510-18353 Jegerup;510;18353;Jegerup;427.0;0.4;1120.7
+510-18354 Maugstrup;510;18354;Maugstrup;0.0;0.0;0.0
+510-18355 Vojens;510;18355;Vojens;7627.0;6.4;1191.3
+510-18356 Hammelev;510;18356;Hammelev;993.0;1.2;818.6
+510-18357 Marstrup;510;18357;Marstrup;812.0;0.7;1123.1
+510-18358 Styding;510;18358;Styding;230.0;0.2;982.9
+510-99997 Uden fast bopæl;510;99997;Uden fast bopæl;66.0;0.0;0.0
+510-99999 Landdistrikter;510;99999;Landdistrikter;11068.0;784.4;14.1
+530-00530 Billund Kommune;530;00530;Billund Kommune;0.0;0.0;0.0
+530-10580 Billund;530;10580;Billund;6313.0;8.0;792.0
+530-10617 Vorbasse;530;10617;Vorbasse;1343.0;1.4;993.3
+530-11076 Filskov;530;11076;Filskov;682.0;0.8;890.3
+530-11212 Grindsted;530;11212;Grindsted;9719.0;8.5;1148.5
+530-11213 Stenderup;530;11213;Stenderup;649.0;0.8;785.7
+530-11214 Hejnsvig;530;11214;Hejnsvig;1043.0;0.9;1166.7
+530-11242 Sønder Omme;530;11242;Sønder Omme;1697.0;1.4;1201.8
+530-99997 Uden fast bopæl;530;99997;Uden fast bopæl;49.0;0.0;0.0
+530-99999 Landdistrikter;530;99999;Landdistrikter;4986.0;518.5;9.6
+540-00540 Sønderborg Kommune;540;00540;Sønderborg Kommune;0.0;0.0;0.0
+540-10322 Nordborg;540;10322;Nordborg;5970.0;5.2;1140.8
+540-10323 Oksbøl;540;10323;Oksbøl;406.0;0.5;783.8
+540-10324 Stevning;540;10324;Stevning;428.0;0.4;1031.3
+540-10325 Svenstrup;540;10325;Svenstrup;659.0;0.6;1134.3
+540-10523 Asserballe;540;10523;Asserballe;306.0;0.3;905.3
+540-10524 Fynshav;540;10524;Fynshav;822.0;0.7;1225.0
+540-10837 Lysabild;540;10837;Lysabild;552.0;0.6;863.9
+540-10911 Skovby;540;10911;Skovby;313.0;0.3;1232.3
+540-10916 Broager;540;10916;Broager;3320.0;1.9;1728.3
+540-10935 Tandslet;540;10935;Tandslet;635.0;0.7;960.7
+540-10936 Adsbøl;540;10936;Adsbøl;357.0;0.2;1586.7
+540-10941 Holm;540;10941;Holm;387.0;0.5;731.6
+540-10994 Avnbøl;540;10994;Avnbøl;386.0;0.3;1513.7
+540-10995 Blans;540;10995;Blans;514.0;0.4;1278.6
+540-11015 Augustenborg;540;11015;Augustenborg;3245.0;2.0;1663.3
+540-11016 Guderup;540;11016;Guderup;2531.0;2.0;1275.1
+540-11017 Hundslev;540;11017;Hundslev;377.0;0.5;805.6
+540-11018 Ketting;540;11018;Ketting;209.0;0.2;972.1
+540-11019 Kær;540;11019;Kær;306.0;0.2;1243.9
+540-11033 Dybbøl;540;11033;Dybbøl;2448.0;1.5;1584.5
+540-11054 Vester Sottrup;540;11054;Vester Sottrup;1424.0;0.9;1527.9
+540-11055 Ullerup;540;11055;Ullerup;399.0;0.4;1064.0
+540-11056 Egernsund;540;11056;Egernsund;1483.0;0.9;1620.8
+540-11057 Gråsten;540;11057;Gråsten;4220.0;3.4;1232.8
+540-11058 Nybøl;540;11058;Nybøl;1089.0;0.7;1459.8
+540-11061 Kværs;540;11061;Kværs;392.0;0.4;935.6
+540-11062 Tørsbøl;540;11062;Tørsbøl;279.0;0.3;978.9
+540-11063 Rinkenæs;540;11063;Rinkenæs;1245.0;1.1;1099.8
+540-11064 Skodsbøl;540;11064;Skodsbøl;0.0;0.0;0.0
+540-11072 Høruphav;540;11072;Høruphav;2625.0;1.8;1483.1
+540-11073 Kirke Hørup;540;11073;Kirke Hørup;259.0;0.3;796.9
+540-11099 Sønderborg;540;11099;Sønderborg;27826.0;13.3;2087.6
+540-11100 Skelde;540;11100;Skelde;271.0;0.3;1007.4
+540-99997 Uden fast bopæl;540;99997;Uden fast bopæl;114.0;0.0;0.0
+540-99999 Landdistrikter;540;99999;Landdistrikter;9004.0;453.5;19.9
+550-00550 Tønder Kommune;550;00550;Tønder Kommune;0.0;0.0;0.0
+550-10130 Bedsted;550;10130;Bedsted;474.0;0.5;938.6
+550-10339 Toftlund;550;10339;Toftlund;3283.0;2.9;1120.1
+550-10340 Agerskov;550;10340;Agerskov;1223.0;1.3;943.7
+550-10341 Branderup;550;10341;Branderup;281.0;0.5;586.6
+550-10989 Arrild;550;10989;Arrild;320.0;0.6;503.9
+550-11003 Abild;550;11003;Abild;563.0;0.5;1151.3
+550-11098 Visby;550;11098;Visby;368.0;0.5;724.4
+550-11123 Løgumgårde;550;11123;Løgumgårde;0.0;0.0;0.0
+550-11124 Løgumkloster;550;11124;Løgumkloster;3598.0;3.3;1085.7
+550-11125 Tønder;550;11125;Tønder;7693.0;6.8;1132.3
+550-11126 Jejsing;550;11126;Jejsing;432.0;0.5;871.0
+550-11129 Skærbæk;550;11129;Skærbæk;3121.0;3.0;1032.4
+550-11130 Døstrup;550;11130;Døstrup;347.0;0.5;719.9
+550-11131 Havneby;550;11131;Havneby;266.0;1.8;148.1
+550-11151 Bredebro;550;11151;Bredebro;1399.0;1.9;726.0
+550-11158 Øster Højst;550;11158;Øster Højst;511.0;0.6;830.9
+550-11161 Husum-Ballum;550;11161;Husum-Ballum;310.0;0.6;546.7
+550-11166 Højer;550;11166;Højer;1187.0;1.0;1189.4
+550-11167 Møgeltønder;550;11167;Møgeltønder;839.0;1.1;783.4
+550-11192 Frifelt;550;11192;Frifelt;254.0;0.3;832.8
+550-11207 Brøns;550;11207;Brøns;427.0;0.7;642.1
+550-11218 Rejsby;550;11218;Rejsby;254.0;0.5;541.6
+550-17913 Sønder Sejerslev;550;17913;Sønder Sejerslev;0.0;0.0;0.0
+550-99997 Uden fast bopæl;550;99997;Uden fast bopæl;34.0;0.0;0.0
+550-99999 Landdistrikter;550;99999;Landdistrikter;10744.0;1254.5;8.6
+561-00561 Esbjerg Kommune;561;00561;Esbjerg Kommune;0.0;0.0;0.0
+561-11101 Gredstedbro;561;11101;Gredstedbro;1102.0;0.8;1305.7
+561-11107 Vilslev;561;11107;Vilslev;452.0;0.6;747.1
+561-11108 Jernved;561;11108;Jernved;340.0;0.4;760.6
+561-11109 Bramming;561;11109;Bramming;7118.0;5.2;1363.1
+561-11110 Gørding;561;11110;Gørding;1771.0;1.5;1191.0
+561-11135 Tjæreborg;561;11135;Tjæreborg;2711.0;1.6;1674.5
+561-11141 Grimstrup;561;11141;Grimstrup;574.0;0.6;1034.2
+561-11149 Ribe;561;11149;Ribe;8251.0;7.3;1133.8
+561-11150 Øster Vedsted;561;11150;Øster Vedsted;801.0;0.7;1150.9
+561-11175 Store Darum;561;11175;Store Darum;902.0;1.1;819.3
+561-11194 Egebæk;561;11194;Egebæk;1180.0;1.2;1006.0
+561-11195 Vejrup;561;11195;Vejrup;753.0;0.6;1169.3
+561-11196 Esbjerg;561;11196;Esbjerg;72261.0;42.8;1687.1
+561-11197 Andrup;561;11197;Andrup;1238.0;0.8;1463.4
+561-11198 Guldager;561;11198;Guldager;1022.0;0.7;1496.3
+561-11208 Roager;561;11208;Roager;340.0;0.5;693.9
+561-11209 Vester Vedsted;561;11209;Vester Vedsted;360.0;0.6;563.4
+561-11221 Ravnsbjerg;561;11221;Ravnsbjerg;353.0;0.2;1649.5
+561-11222 Bryndum;561;11222;Bryndum;537.0;0.3;1871.1
+561-11223 Vester Nebel;561;11223;Vester Nebel;417.0;0.3;1394.6
+561-11224 Tarp;561;11224;Tarp;1749.0;1.2;1461.2
+561-11225 Skads;561;11225;Skads;439.0;0.3;1519.0
+561-12962 Endrup;561;12962;Endrup;0.0;0.0;0.0
+561-17838 Lustrup;561;17838;Lustrup;258.0;0.2;1194.4
+561-17952 Hunderup;561;17952;Hunderup;229.0;0.3;789.7
+561-18119 Kærbøl;561;18119;Kærbøl;331.0;0.4;754.0
+561-99997 Uden fast bopæl;561;99997;Uden fast bopæl;184.0;0.0;0.0
+561-99999 Landdistrikter;561;99999;Landdistrikter;10232.0;724.6;14.1
+563-00563 Fanø Kommune;563;00563;Fanø Kommune;0.0;0.0;0.0
+563-11132 Sønderho;563;11132;Sønderho;275.0;0.4;731.4
+563-11138 Nordby;563;11138;Nordby;2707.0;1.5;1837.7
+563-99997 Uden fast bopæl;563;99997;Uden fast bopæl;0.0;0.0;0.0
+563-99999 Landdistrikter;563;99999;Landdistrikter;363.0;55.8;6.5
+573-00573 Varde Kommune;573;00573;Varde Kommune;0.0;0.0;0.0
+573-10897 Janderup;573;10897;Janderup;802.0;0.6;1341.1
+573-10898 Varde;573;10898;Varde;13951.0;9.5;1472.1
+573-10987 Horne;573;10987;Horne;473.0;0.4;1241.5
+573-10988 Sig;573;10988;Sig;804.0;0.6;1388.6
+573-11049 Oksbøl;573;11049;Oksbøl;2858.0;2.3;1246.4
+573-11050 Billum;573;11050;Billum;568.0;0.6;942.0
+573-11051 Øster Vrøgum;573;11051;Øster Vrøgum;370.0;0.3;1182.1
+573-11065 Nørre Nebel;573;11065;Nørre Nebel;1376.0;1.2;1110.6
+573-11066 Henne Stationsby;573;11066;Henne Stationsby;217.0;0.2;939.4
+573-11111 Ølgod;573;11111;Ølgod;3892.0;2.9;1326.1
+573-11133 Agerbæk;573;11133;Agerbæk;1331.0;1.1;1208.9
+573-11134 Alslev;573;11134;Alslev;1254.0;0.8;1573.4
+573-11139 Årre;573;11139;Årre;653.0;0.6;1155.8
+573-11140 Fåborg;573;11140;Fåborg;316.0;0.3;993.7
+573-11147 Lunde;573;11147;Lunde;445.0;0.5;910.0
+573-11162 Nymindegab;573;11162;Nymindegab;225.0;0.5;491.3
+573-11199 Nordenskov;573;11199;Nordenskov;688.0;0.6;1100.8
+573-11200 Næsbjerg;573;11200;Næsbjerg;759.0;0.7;1157.0
+573-11201 Tistrup;573;11201;Tistrup;1403.0;1.3;1106.5
+573-11202 Skovlund;573;11202;Skovlund;573.0;0.6;915.3
+573-11211 Ansager;573;11211;Ansager;1275.0;1.2;1084.2
+573-11215 Tofterup;573;11215;Tofterup;626.0;0.6;988.9
+573-17172 Tinghøj;573;17172;Tinghøj;213.0;0.2;887.5
+573-17825 Kvong;573;17825;Kvong;214.0;0.3;819.9
+573-18412 Outrup;573;18412;Outrup;1032.0;0.9;1179.4
+573-70404 Oksby;573;70404;Oksby;308.0;6.7;46.2
+573-99997 Uden fast bopæl;573;99997;Uden fast bopæl;63.0;0.0;0.0
+573-99999 Landdistrikter;573;99999;Landdistrikter;13763.0;1204.7;11.4
+575-00575 Vejen Kommune;575;00575;Vejen Kommune;0.0;0.0;0.0
+575-10079 Rødding;575;10079;Rødding;2735.0;2.3;1200.6
+575-11127 Brørup;575;11127;Brørup;4583.0;3.9;1162.0
+575-11128 Lintrup;575;11128;Lintrup;225.0;0.3;752.5
+575-11159 Lindknud;575;11159;Lindknud;417.0;0.4;943.4
+575-11160 Holsted;575;11160;Holsted;3111.0;2.9;1078.0
+575-11203 Glejbjerg;575;11203;Glejbjerg;704.0;0.6;1101.7
+575-11210 Sønder Hygum;575;11210;Sønder Hygum;435.0;0.6;768.6
+575-11216 Hovborg;575;11216;Hovborg;377.0;0.6;668.4
+575-17738 Foldingbro;575;17738;Foldingbro;0.0;0.0;0.0
+575-17741 Føvling;575;17741;Føvling;0.0;0.0;0.0
+575-18314 Askov;575;18314;Askov;1830.0;1.2;1553.5
+575-18369 Vejen;575;18369;Vejen;9707.0;8.5;1144.6
+575-18370 Store Andst;575;18370;Store Andst;819.0;0.7;1233.4
+575-18371 Skodborg;575;18371;Skodborg;1331.0;1.3;1064.8
+575-18382 Gesten;575;18382;Gesten;930.0;0.9;1080.1
+575-18383 Bække;575;18383;Bække;1093.0;0.8;1443.9
+575-18414 Jels;575;18414;Jels;1993.0;1.9;1046.2
+575-18415 Øster Lindet;575;18415;Øster Lindet;445.0;0.5;833.3
+575-99997 Uden fast bopæl;575;99997;Uden fast bopæl;39.0;0.0;0.0
+575-99999 Landdistrikter;575;99999;Landdistrikter;12048.0;786.4;15.3
+580-00580 Aabenraa Kommune;580;00580;Aabenraa Kommune;0.0;0.0;0.0
+580-10049 Varnæs;580;10049;Varnæs;470.0;0.4;1068.2
+580-10138 Hostrupskov;580;10138;Hostrupskov;472.0;0.5;940.2
+580-10139 Hellevad;580;10139;Hellevad;528.0;0.6;869.9
+580-10140 Ravsted;580;10140;Ravsted;444.0;0.5;834.6
+580-10209 Genner;580;10209;Genner;777.0;0.7;1083.7
+580-10210 Rødekro;580;10210;Rødekro;6088.0;5.1;1200.3
+580-10211 Løjt Kirkeby;580;10211;Løjt Kirkeby;2308.0;1.5;1578.7
+580-10212 Hjordkær;580;10212;Hjordkær;1617.0;1.7;960.2
+580-10213 Aabenraa;580;10213;Aabenraa;16153.0;9.7;1667.5
+580-10405 Bylderup-Bov;580;10405;Bylderup-Bov;1316.0;1.5;880.3
+580-10418 Tinglev;580;10418;Tinglev;2803.0;3.1;913.6
+580-10453 Kollund;580;10453;Kollund;978.0;1.0;960.7
+580-10454 Kruså;580;10454;Kruså;1613.0;1.5;1073.2
+580-10455 Padborg;580;10455;Padborg;4389.0;6.2;705.6
+580-10724 Hovslund Stationsby;580;10724;Hovslund Stationsby;310.0;0.3;893.4
+580-10774 Rens;580;10774;Rens;277.0;0.5;525.6
+580-11010 Uge;580;11010;Uge;240.0;0.3;805.4
+580-11011 Kliplev;580;11011;Kliplev;1253.0;1.1;1142.2
+580-11060 Felsted;580;11060;Felsted;1062.0;0.8;1255.3
+580-11069 Holbøl;580;11069;Holbøl;409.0;0.5;852.1
+580-11116 Bolderslev;580;11116;Bolderslev;1206.0;1.4;869.5
+580-11117 Bovrup;580;11117;Bovrup;490.0;0.4;1272.7
+580-11118 Stubbæk;580;11118;Stubbæk;1205.0;0.9;1416.0
+580-11165 Bjerndrup;580;11165;Bjerndrup;0.0;0.0;0.0
+580-11663 Kollund Østerskov;580;11663;Kollund Østerskov;278.0;0.3;824.9
+580-18257 Søgård;580;18257;Søgård;320.0;0.2;1435.0
+580-18263 Fårhus;580;18263;Fårhus;230.0;0.3;858.2
+580-99997 Uden fast bopæl;580;99997;Uden fast bopæl;54.0;0.0;0.0
+580-99999 Landdistrikter;580;99999;Landdistrikter;11713.0;899.6;13.0
+607-00607 Fredericia Kommune;607;00607;Fredericia Kommune;0.0;0.0;0.0
+607-10108 Fredericia;607;10108;Fredericia;40461.0;27.0;1495.9
+607-10607 Pjedsted;607;10607;Pjedsted;594.0;0.4;1421.1
+607-10608 Taulov;607;10608;Taulov;3371.0;5.3;635.4
+607-10610 Bredstrup;607;10610;Bredstrup;475.0;0.3;1417.9
+607-10611 Skærbæk;607;10611;Skærbæk;2051.0;1.9;1096.2
+607-10669 Snoghøj;607;10669;Snoghøj;0.0;0.0;0.0
+607-10780 Herslev;607;10780;Herslev;355.0;0.3;1072.5
+607-10828 Østerby;607;10828;Østerby;0.0;0.0;0.0
+607-10844 Bøgeskov;607;10844;Bøgeskov;304.0;0.3;1211.2
+607-10845 Egeskov;607;10845;Egeskov;659.0;0.4;1785.9
+607-10846 Trelde;607;10846;Trelde;0.0;0.0;0.0
+607-18773 Trelde-Østerby;607;18773;Trelde-Østerby;644.0;0.7;968.4
+607-99997 Uden fast bopæl;607;99997;Uden fast bopæl;140.0;0.0;0.0
+607-99999 Landdistrikter;607;99999;Landdistrikter;1814.0;97.0;18.7
+615-00615 Horsens Kommune;615;00615;Horsens Kommune;0.0;0.0;0.0
+615-10166 Grumstrup;615;10166;Grumstrup;240.0;0.2;1071.4
+615-10169 Hovedgård;615;10169;Hovedgård;2214.0;1.7;1341.0
+615-10174 Haldrup;615;10174;Haldrup;341.0;0.3;1092.9
+615-10175 Søvind;615;10175;Søvind;1075.0;0.9;1228.6
+615-10344 Sønder Vissing;615;10344;Sønder Vissing;456.0;0.4;1277.3
+615-10939 Tvingstrup;615;10939;Tvingstrup;543.0;0.4;1340.7
+615-10955 Sejet;615;10955;Sejet;360.0;0.3;1228.7
+615-14377 Træden;615;14377;Træden;204.0;0.1;1426.6
+615-14719 Grædstrup;615;14719;Grædstrup;238.0;0.2;971.4
+615-14784 Vestbirk;615;14784;Vestbirk;0.0;0.0;0.0
+615-14786 Yding;615;14786;Yding;214.0;0.3;708.6
+615-16565 Voervadsbro;615;16565;Voervadsbro;209.0;0.2;904.8
+615-18268 Nim;615;18268;Nim;741.0;0.7;1058.6
+615-18287 Egebjerg;615;18287;Egebjerg;2409.0;1.4;1713.4
+615-18288 Hatting;615;18288;Hatting;1726.0;1.3;1289.0
+615-18289 Horsens;615;18289;Horsens;58480.0;28.1;2077.7
+615-18291 Brædstrup;615;18291;Brædstrup;3635.0;2.8;1279.5
+615-18304 Gedved;615;18304;Gedved;2203.0;1.9;1163.1
+615-18305 Lund;615;18305;Lund;2243.0;2.3;973.5
+615-18310 Østbirk;615;18310;Østbirk;2179.0;1.9;1167.1
+615-99997 Uden fast bopæl;615;99997;Uden fast bopæl;160.0;0.0;0.0
+615-99999 Landdistrikter;615;99999;Landdistrikter;9160.0;473.9;19.3
+621-00621 Kolding Kommune;621;00621;Kolding Kommune;0.0;0.0;0.0
+621-10064 Kolding;621;10064;Kolding;60300.0;37.7;1599.9
+621-10200 Stepping;621;10200;Stepping;385.0;0.4;875.0
+621-10596 Vester Nebel;621;10596;Vester Nebel;1771.0;1.1;1621.8
+621-10609 Viuf;621;10609;Viuf;562.0;0.4;1544.0
+621-10694 Hejls;621;10694;Hejls;437.0;0.4;1150.0
+621-10776 Christiansfeld;621;10776;Christiansfeld;2935.0;2.4;1245.2
+621-10787 Taps;621;10787;Taps;343.0;0.2;1388.7
+621-10811 Sønder Bjert;621;10811;Sønder Bjert;1964.0;1.3;1510.8
+621-10812 Sønder Stenderup;621;10812;Sønder Stenderup;559.0;0.5;1159.8
+621-10813 Almind;621;10813;Almind;1692.0;1.0;1652.3
+621-11075 Sjølund;621;11075;Sjølund;527.0;0.6;958.2
+621-11153 Ødis;621;11153;Ødis;449.0;0.4;1197.3
+621-12520 Harte;621;12520;Harte;0.0;0.0;0.0
+621-18322 Jordrup;621;18322;Jordrup;535.0;0.4;1415.3
+621-18323 Lunderskov;621;18323;Lunderskov;3074.0;3.0;1035.4
+621-18331 Vamdrup;621;18331;Vamdrup;4970.0;4.4;1120.4
+621-18332 Hjarup;621;18332;Hjarup;413.0;0.4;934.4
+621-18333 Skanderup;621;18333;Skanderup;436.0;0.5;923.7
+621-18346 Ødis-Bramdrup;621;18346;Ødis-Bramdrup;226.0;0.3;658.9
+621-99997 Uden fast bopæl;621;99997;Uden fast bopæl;137.0;0.0;0.0
+621-99999 Landdistrikter;621;99999;Landdistrikter;10567.0;549.1;19.2
+630-00630 Vejle Kommune;630;00630;Vejle Kommune;0.0;0.0;0.0
+630-10009 Grejs;630;10009;Grejs;1095.0;0.8;1414.7
+630-10031 Bredal;630;10031;Bredal;646.0;0.5;1337.5
+630-10043 Ny Højen;630;10043;Ny Højen;666.0;0.3;1970.4
+630-10044 Skærup;630;10044;Skærup;515.0;0.4;1377.0
+630-10045 Brejning;630;10045;Brejning;3016.0;1.9;1577.4
+630-10046 Børkop;630;10046;Børkop;5435.0;3.5;1548.0
+630-10087 Vejle;630;10087;Vejle;55876.0;34.1;1636.4
+630-10091 Gårslev;630;10091;Gårslev;1107.0;0.7;1590.5
+630-10105 Ågård;630;10105;Ågård;1298.0;1.0;1271.3
+630-10400 Vandel;630;10400;Vandel;787.0;0.6;1361.6
+630-10580 Billund;630;10580;Billund;0.0;0.0;0.0
+630-10814 Andkær;630;10814;Andkær;366.0;0.4;938.5
+630-11044 Farre;630;11044;Farre;388.0;0.4;951.0
+630-15179 Nørup;630;15179;Nørup;234.0;0.2;1329.5
+630-18269 Give;630;18269;Give;4603.0;4.3;1072.7
+630-18270 Thyregod;630;18270;Thyregod;1384.0;1.5;934.5
+630-18272 Grønbjerg;630;18272;Grønbjerg;0.0;0.0;0.0
+630-18275 Jerlev;630;18275;Jerlev;703.0;0.5;1316.5
+630-18276 Nørre Vilstrup;630;18276;Nørre Vilstrup;271.0;0.3;1003.7
+630-18277 Egtved;630;18277;Egtved;2329.0;1.8;1319.5
+630-18278 Givskud;630;18278;Givskud;605.0;0.5;1210.0
+630-18279 Kollemorten;630;18279;Kollemorten;363.0;0.3;1090.1
+630-18280 Vonge;630;18280;Vonge;602.0;0.6;1011.8
+630-18286 Ødsted;630;18286;Ødsted;1462.0;1.1;1357.5
+630-18328 Ny Nørup;630;18328;Ny Nørup;454.0;0.3;1343.2
+630-18329 Skibet;630;18329;Skibet;2085.0;1.4;1469.3
+630-18330 Gadbjerg;630;18330;Gadbjerg;775.0;0.6;1218.6
+630-18341 Jelling;630;18341;Jelling;3443.0;2.8;1248.8
+630-18345 Østengård;630;18345;Østengård;0.0;0.0;0.0
+630-18401 Randbøldal;630;18401;Randbøldal;336.0;0.4;908.1
+630-18402 Bredsten;630;18402;Bredsten;1694.0;1.3;1287.2
+630-18416 Smidstrup;630;18416;Smidstrup;816.0;0.6;1378.4
+630-70319 Høl;630;70319;Høl;384.0;0.6;695.7
+630-70322 Hvidbjerg;630;70322;Hvidbjerg;0.0;0.0;0.0
+630-99997 Uden fast bopæl;630;99997;Uden fast bopæl;227.0;0.0;0.0
+630-99999 Landdistrikter;630;99999;Landdistrikter;19278.0;994.8;19.4
+657-00657 Herning Kommune;657;00657;Herning Kommune;0.0;0.0;0.0
+657-10403 Fasterholt;657;10403;Fasterholt;359.0;0.5;755.8
+657-10581 Aulum;657;10581;Aulum;3228.0;2.6;1219.5
+657-10770 Ilskov;657;10770;Ilskov;754.0;0.6;1206.4
+657-11002 Simmelkær;657;11002;Simmelkær;270.0;0.3;947.4
+657-11006 Skibbild;657;11006;Skibbild;713.0;0.6;1139.0
+657-11007 Herning;657;11007;Herning;49229.0;32.5;1513.0
+657-11012 Vind;657;11012;Vind;220.0;0.3;743.2
+657-11026 Gullestrup;657;11026;Gullestrup;1942.0;0.9;2234.8
+657-11030 Timring;657;11030;Timring;688.0;0.7;1033.0
+657-11070 Studsgård;657;11070;Studsgård;471.0;0.3;1373.2
+657-11077 Sunds;657;11077;Sunds;4106.0;3.5;1187.0
+657-11143 Feldborg;657;11143;Feldborg;555.0;0.6;876.8
+657-11144 Haderup;657;11144;Haderup;653.0;0.7;992.4
+657-11146 Hodsager;657;11146;Hodsager;411.0;0.4;953.6
+657-11148 Sørvad;657;11148;Sørvad;1104.0;1.0;1054.4
+657-11168 Kibæk;657;11168;Kibæk;2624.0;2.3;1164.7
+657-11169 Arnborg;657;11169;Arnborg;675.0;0.7;1029.0
+657-11170 Høgild;657;11170;Høgild;291.0;0.2;1178.1
+657-11179 Ørnhøj;657;11179;Ørnhøj;734.0;0.7;1112.1
+657-11226 Sønder Felding;657;11226;Sønder Felding;1488.0;1.6;936.4
+657-11239 Vildbjerg;657;11239;Vildbjerg;4050.0;3.8;1055.2
+657-11240 Skarrild;657;11240;Skarrild;298.0;0.4;849.0
+657-11241 Stakroge;657;11241;Stakroge;260.0;0.4;686.0
+657-12964 Havnstrup;657;12964;Havnstrup;0.0;0.0;0.0
+657-14334 Nørre Kollund;657;14334;Nørre Kollund;203.0;0.3;738.2
+657-17878 Sinding;657;17878;Sinding;265.0;0.2;1064.3
+657-18252 Kølkær;657;18252;Kølkær;565.0;0.6;932.3
+657-18989 Lind;657;18989;Lind;0.0;0.0;0.0
+657-99997 Uden fast bopæl;657;99997;Uden fast bopæl;166.0;0.0;0.0
+657-99999 Landdistrikter;657;99999;Landdistrikter;12064.0;1264.4;9.5
+661-00661 Holstebro Kommune;661;00661;Holstebro Kommune;0.0;0.0;0.0
+661-10909 Borbjerg;661;10909;Borbjerg;419.0;0.3;1293.2
+661-10912 Nørre Felding;661;10912;Nørre Felding;790.0;0.5;1596.0
+661-10913 Tvis;661;10913;Tvis;1244.0;1.1;1181.4
+661-10914 Ulfborg;661;10914;Ulfborg;2074.0;1.9;1089.9
+661-10915 Vemb;661;10915;Vemb;1321.0;1.1;1189.0
+661-11013 Holstebro;661;11013;Holstebro;35867.0;22.9;1566.2
+661-11014 Mejrup Kirkeby;661;11014;Mejrup Kirkeby;0.0;0.0;0.0
+661-11021 Mogenstrup;661;11021;Mogenstrup;210.0;0.3;719.2
+661-11022 Sevel;661;11022;Sevel;488.0;0.6;784.6
+661-11031 Sønder Nissum;661;11031;Sønder Nissum;209.0;0.3;641.1
+661-11071 Staby;661;11071;Staby;203.0;0.4;571.8
+661-11089 Thorsminde;661;11089;Thorsminde;355.0;0.5;698.8
+661-11105 Bur;661;11105;Bur;241.0;0.3;816.9
+661-11106 Idom;661;11106;Idom;398.0;0.4;934.3
+661-11142 Skave;661;11142;Skave;515.0;0.5;1131.9
+661-11145 Herrup;661;11145;Herrup;278.0;0.3;863.4
+661-11176 Handbjerg (del af flere kommuner);661;11176;Handbjerg (del af flere kommuner);227.0;0.4;547.0
+661-11205 Hvam Mejeriby;661;11205;Hvam Mejeriby;227.0;0.1;1787.4
+661-11206 Krunderup;661;11206;Krunderup;412.0;0.4;1048.3
+661-11229 Vinderup;661;11229;Vinderup;3164.0;2.3;1362.6
+661-11233 Ejsing;661;11233;Ejsing;325.0;0.4;839.8
+661-11235 Ryde;661;11235;Ryde;223.0;0.2;1179.9
+661-99997 Uden fast bopæl;661;99997;Uden fast bopæl;49.0;0.0;0.0
+661-99999 Landdistrikter;661;99999;Landdistrikter;8886.0;757.8;11.7
+665-00665 Lemvig Kommune;665;00665;Lemvig Kommune;0.0;0.0;0.0
+665-10806 Nørre Nissum;665;10806;Nørre Nissum;1040.0;1.1;954.1
+665-11032 Lemvig;665;11032;Lemvig;6936.0;4.9;1418.1
+665-11052 Harboøre;665;11052;Harboøre;1489.0;1.1;1328.3
+665-11068 Klinkby;665;11068;Klinkby;486.0;0.6;882.0
+665-11082 Bonnet;665;11082;Bonnet;0.0;0.0;0.0
+665-11087 Thyborøn;665;11087;Thyborøn;2069.0;1.8;1143.1
+665-11103 Lomborg;665;11103;Lomborg;329.0;0.4;812.3
+665-11104 Bøvlingbjerg;665;11104;Bøvlingbjerg;534.0;0.6;908.2
+665-11119 Bækmarksbro;665;11119;Bækmarksbro;507.0;0.5;949.4
+665-11250 Gudum;665;11250;Gudum;201.0;0.4;507.6
+665-11253 Ramme;665;11253;Ramme;410.0;0.4;931.8
+665-99997 Uden fast bopæl;665;99997;Uden fast bopæl;31.0;0.0;0.0
+665-99999 Landdistrikter;665;99999;Landdistrikter;6259.0;497.0;12.6
+671-00671 Struer Kommune;671;00671;Struer Kommune;0.0;0.0;0.0
+671-11023 Struer;671;11023;Struer;10375.0;7.2;1441.2
+671-11024 Hjerm;671;11024;Hjerm;1103.0;0.8;1337.0
+671-11034 Jegind;671;11034;Jegind;0.0;0.0;0.0
+671-11035 Hvidbjerg;671;11035;Hvidbjerg;1151.0;1.0;1138.5
+671-11115 Uglev;671;11115;Uglev;202.0;0.3;789.1
+671-11176 Handbjerg (del af flere kommuner);671;11176;Handbjerg (del af flere kommuner);1.0;0.0;28.6
+671-11184 Humlum;671;11184;Humlum;861.0;0.7;1302.6
+671-11204 Resenstad;671;11204;Resenstad;287.0;0.2;1406.9
+671-11228 Bremdal;671;11228;Bremdal;1756.0;1.1;1560.9
+671-11251 Asp;671;11251;Asp;349.0;0.4;930.7
+671-11252 Linde;671;11252;Linde;396.0;0.3;1144.5
+671-17174 Vejrumstad;671;17174;Vejrumstad;0.0;0.0;0.0
+671-99997 Uden fast bopæl;671;99997;Uden fast bopæl;29.0;0.0;0.0
+671-99999 Landdistrikter;671;99999;Landdistrikter;4837.0;234.2;20.7
+706-00706 Syddjurs Kommune;706;00706;Syddjurs Kommune;0.0;0.0;0.0
+706-10080 Mørke;706;10080;Mørke;1554.0;1.1;1417.9
+706-10298 Ebeltoft;706;10298;Ebeltoft;7430.0;8.2;911.0
+706-10591 Tirstrup;706;10591;Tirstrup;508.0;0.6;923.6
+706-10592 Egsmark;706;10592;Egsmark;0.0;0.0;0.0
+706-10593 Dråby;706;10593;Dråby;0.0;0.0;0.0
+706-10628 Balle (del af flere kommuner);706;10628;Balle (del af flere kommuner);491.0;0.6;849.5
+706-10642 Vrinners;706;10642;Vrinners;391.0;0.4;967.8
+706-10643 Pindstrup;706;10643;Pindstrup;786.0;0.9;856.2
+706-10644 Ryomgård;706;10644;Ryomgård;2432.0;2.0;1196.9
+706-10645 Kolind;706;10645;Kolind;1871.0;1.4;1381.8
+706-10646 Nimtofte;706;10646;Nimtofte;643.0;0.6;1169.1
+706-10654 Følle;706;10654;Følle;0.0;0.0;0.0
+706-10655 Rønde;706;10655;Rønde;2925.0;2.2;1311.1
+706-10656 Ugelbølle;706;10656;Ugelbølle;1336.0;0.8;1637.3
+706-10657 Feldballe;706;10657;Feldballe;497.0;0.4;1258.2
+706-11079 Knebel;706;11079;Knebel;556.0;0.7;855.4
+706-12644 Grønfeld;706;12644;Grønfeld;216.0;0.2;907.6
+706-12693 Hyllested;706;12693;Hyllested;0.0;0.0;0.0
+706-15726 Tved;706;15726;Tved;241.0;0.2;1025.5
+706-15916 Rodskov;706;15916;Rodskov;239.0;0.2;1291.9
+706-18337 Thorsager;706;18337;Thorsager;1321.0;0.9;1527.2
+706-18340 Hornslet;706;18340;Hornslet;5604.0;3.2;1773.4
+706-18375 Lime;706;18375;Lime;377.0;0.4;992.1
+706-18376 Søby;706;18376;Søby;259.0;0.2;1204.7
+706-70262 Følle Strand;706;70262;Følle Strand;0.0;0.0;0.0
+706-70587 Egsmark;706;70587;Egsmark;0.0;0.0;0.0
+706-99997 Uden fast bopæl;706;99997;Uden fast bopæl;50.0;0.0;0.0
+706-99999 Landdistrikter;706;99999;Landdistrikter;12294.0;664.7;18.5
+707-00707 Norddjurs Kommune;707;00707;Norddjurs Kommune;0.0;0.0;0.0
+707-10060 Auning;707;10060;Auning;3008.0;2.3;1315.8
+707-10068 Fjellerup;707;10068;Fjellerup;442.0;0.6;731.8
+707-10069 Gjesing;707;10069;Gjesing;315.0;0.4;787.5
+707-10070 Nørager;707;10070;Nørager;313.0;0.3;996.8
+707-10071 Vivild;707;10071;Vivild;828.0;0.7;1243.2
+707-10082 Bønnerup Strand;707;10082;Bønnerup Strand;786.0;2.1;370.2
+707-10161 Ramten;707;10161;Ramten;241.0;0.2;983.7
+707-10162 Stenvad;707;10162;Stenvad;295.0;0.3;973.6
+707-10361 Grenaa;707;10361;Grenaa;14856.0;11.2;1325.2
+707-10362 Ålsrode;707;10362;Ålsrode;0.0;0.0;0.0
+707-10389 Voldby;707;10389;Voldby;345.0;0.4;920.0
+707-10457 Holbæk;707;10457;Holbæk;275.0;0.3;862.1
+707-10459 Ørsted;707;10459;Ørsted;1465.0;1.3;1100.7
+707-10462 Allingåbro;707;10462;Allingåbro;1831.0;1.7;1098.4
+707-10590 Trustrup;707;10590;Trustrup;814.0;0.7;1091.2
+707-10628 Balle (del af flere kommuner);707;10628;Balle (del af flere kommuner);40.0;0.1;339.0
+707-10629 Lyngby;707;10629;Lyngby;359.0;0.3;1169.4
+707-11093 Gjerrild;707;11093;Gjerrild;448.0;0.5;822.0
+707-18374 Øster Alling;707;18374;Øster Alling;309.0;0.3;1036.9
+707-18405 Ørum;707;18405;Ørum;719.0;0.8;948.5
+707-18406 Glesborg;707;18406;Glesborg;577.0;0.6;1021.2
+707-70017 Fjellerup Strand;707;70017;Fjellerup Strand;0.0;0.0;0.0
+707-99997 Uden fast bopæl;707;99997;Uden fast bopæl;30.0;0.0;0.0
+707-99999 Landdistrikter;707;99999;Landdistrikter;9803.0;695.8;14.1
+710-00710 Favrskov Kommune;710;00710;Favrskov Kommune;0.0;0.0;0.0
+710-10117 Hinnerup;710;10117;Hinnerup;7681.0;4.2;1825.3
+710-10118 Lading;710;10118;Lading;647.0;0.5;1286.3
+710-10119 Grundfør;710;10119;Grundfør;419.0;0.4;1102.6
+710-10120 Søften;710;10120;Søften;2757.0;2.0;1405.2
+710-10121 Nørre Galten;710;10121;Nørre Galten;215.0;0.2;926.7
+710-10468 Skjød;710;10468;Skjød;265.0;0.2;1099.6
+710-10469 Selling;710;10469;Selling;678.0;0.4;1729.6
+710-10470 Ødum;710;10470;Ødum;360.0;0.3;1241.4
+710-10471 Folby;710;10471;Folby;1064.0;0.8;1268.2
+710-10631 Vissing;710;10631;Vissing;234.0;0.2;1181.8
+710-10633 Hadsten;710;10633;Hadsten;8093.0;5.3;1523.8
+710-10634 Hadbjerg;710;10634;Hadbjerg;729.0;0.6;1241.9
+710-10755 Aidt;710;10755;Aidt;269.0;0.3;870.6
+710-10756 Hvorslev;710;10756;Hvorslev;231.0;0.3;675.4
+710-10758 Ulstrup;710;10758;Ulstrup;2025.0;1.4;1439.2
+710-10759 Vellev;710;10759;Vellev;211.0;0.3;667.7
+710-10760 Houlbjerg;710;10760;Houlbjerg;223.0;0.3;677.8
+710-10794 Hammel;710;10794;Hammel;7005.0;5.3;1334.0
+710-10795 Sall;710;10795;Sall;238.0;0.2;1196.0
+710-10796 Voldby;710;10796;Voldby;436.0;0.3;1293.8
+710-10818 Thorsø;710;10818;Thorsø;1845.0;1.4;1277.7
+710-10951 Farre;710;10951;Farre;287.0;0.3;1043.6
+710-11095 Laurbjerg;710;11095;Laurbjerg;1013.0;0.7;1451.3
+710-12972 Vitten;710;12972;Vitten;220.0;0.3;705.1
+710-14909 Norring;710;14909;Norring;201.0;0.2;1110.5
+710-15166 Lyngå;710;15166;Lyngå;221.0;0.2;1013.8
+710-17101 Svenstrup;710;17101;Svenstrup;244.0;0.3;807.9
+710-18373 Voldum;710;18373;Voldum;852.0;0.7;1189.9
+710-99997 Uden fast bopæl;710;99997;Uden fast bopæl;58.0;0.0;0.0
+710-99999 Landdistrikter;710;99999;Landdistrikter;9194.0;512.5;17.9
+727-00727 Odder Kommune;727;00727;Odder Kommune;0.0;0.0;0.0
+727-10101 Hov;727;10101;Hov;1532.0;1.4;1127.3
+727-10102 Odder;727;10102;Odder;11872.0;6.6;1804.5
+727-10103 Hundslund;727;10103;Hundslund;598.0;0.5;1266.9
+727-10104 Ørting;727;10104;Ørting;696.0;0.5;1539.8
+727-10168 Torrild;727;10168;Torrild;226.0;0.3;879.4
+727-10173 Gylling;727;10173;Gylling;643.0;0.4;1488.4
+727-10243 Saksild;727;10243;Saksild;789.0;0.6;1365.1
+727-14904 Bovlstrup;727;14904;Bovlstrup;309.0;0.3;1207.0
+727-16471 Neder Randlev;727;16471;Neder Randlev;227.0;0.2;1319.8
+727-99997 Uden fast bopæl;727;99997;Uden fast bopæl;11.0;0.0;0.0
+727-99999 Landdistrikter;727;99999;Landdistrikter;5428.0;213.2;25.5
+730-00730 Randers Kommune;730;00730;Randers Kommune;0.0;0.0;0.0
+730-10081 Haslund;730;10081;Haslund;688.0;0.7;1048.8
+730-10354 Udbyhøj Vasehuse;730;10354;Udbyhøj Vasehuse;217.0;0.3;847.7
+730-10456 Tvede;730;10456;Tvede;229.0;0.3;898.0
+730-10458 Støvring;730;10458;Støvring;0.0;0.0;0.0
+730-10460 Albæk;730;10460;Albæk;276.0;0.3;910.9
+730-10461 Uggelhuse;730;10461;Uggelhuse;439.0;0.4;1000.0
+730-10498 Råsted;730;10498;Råsted;303.0;0.2;1246.9
+730-10499 Gimming;730;10499;Gimming;247.0;0.2;1008.2
+730-10500 Harridslev;730;10500;Harridslev;1177.0;0.7;1571.4
+730-10501 Mejlby;730;10501;Mejlby;616.0;0.4;1416.1
+730-10502 Over Hornbæk;730;10502;Over Hornbæk;0.0;0.0;0.0
+730-10503 Paderup;730;10503;Paderup;0.0;0.0;0.0
+730-10627 Havndal;730;10627;Havndal;872.0;0.8;1144.4
+730-10632 Værum;730;10632;Værum;296.0;0.3;878.3
+730-10635 Assentoft;730;10635;Assentoft;3457.0;2.7;1258.9
+730-10636 Mellerup;730;10636;Mellerup;523.0;0.5;1007.7
+730-10637 Øster Tørslev;730;10637;Øster Tørslev;865.0;0.9;976.3
+730-10658 Enslev;730;10658;Enslev;0.0;0.0;0.0
+730-10659 Gjerlev;730;10659;Gjerlev;650.0;0.5;1219.5
+730-10660 Asferg;730;10660;Asferg;598.0;0.5;1245.8
+730-10661 Spentrup;730;10661;Spentrup;2451.0;1.4;1753.2
+730-10662 Hald;730;10662;Hald;356.0;0.3;1031.9
+730-10663 Linde;730;10663;Linde;0.0;0.0;0.0
+730-10691 Randers;730;10691;Randers;62563.0;32.2;1941.7
+730-10692 Stevnstrup;730;10692;Stevnstrup;2185.0;1.5;1470.4
+730-10695 Gassum;730;10695;Gassum;422.0;0.3;1348.2
+730-10757 Langå;730;10757;Langå;2877.0;2.2;1289.6
+730-10919 Fårup;730;10919;Fårup;1017.0;1.1;891.3
+730-10922 Øster Bjerregrav;730;10922;Øster Bjerregrav;1088.0;0.8;1386.0
+730-10923 Sønderbæk;730;10923;Sønderbæk;205.0;0.3;719.3
+730-10940 Helstrup;730;10940;Helstrup;206.0;0.2;1157.3
+730-10982 Ålum;730;10982;Ålum;295.0;0.2;1260.7
+730-11080 Dalbyover;730;11080;Dalbyover;271.0;0.3;944.3
+730-11081 Tånum;730;11081;Tånum;253.0;0.2;1176.7
+730-11893 Lem;730;11893;Lem;222.0;0.2;1226.5
+730-18372 Hørning;730;18372;Hørning;307.0;0.3;950.5
+730-99997 Uden fast bopæl;730;99997;Uden fast bopæl;324.0;0.0;0.0
+730-99999 Landdistrikter;730;99999;Landdistrikter;11623.0;696.3;16.7
+740-00740 Silkeborg Kommune;740;00740;Silkeborg Kommune;0.0;0.0;0.0
+740-10347 Voel;740;10347;Voel;1567.0;1.0;1603.9
+740-10368 Bryrup;740;10368;Bryrup;1542.0;1.4;1123.1
+740-10374 Linå;740;10374;Linå;528.0;0.5;1077.6
+740-10375 Laven (del af flere kommuner);740;10375;Laven (del af flere kommuner);369.0;0.3;1285.7
+740-10378 Sorring;740;10378;Sorring;1134.0;0.7;1620.0
+740-10393 Salten;740;10393;Salten;667.0;0.4;1769.2
+740-10394 Them;740;10394;Them;2215.0;1.4;1554.4
+740-10402 Sinding;740;10402;Sinding;311.0;0.2;1301.3
+740-10606 Gjessø;740;10606;Gjessø;820.0;0.5;1598.4
+740-10614 Virklund;740;10614;Virklund;3429.0;2.5;1355.9
+740-10615 Svejbæk;740;10615;Svejbæk;0.0;0.0;0.0
+740-10667 Silkeborg;740;10667;Silkeborg;44333.0;28.2;1570.0
+740-10727 Demstrup;740;10727;Demstrup;284.0;0.3;1051.9
+740-10728 Neder Hvam;740;10728;Neder Hvam;304.0;0.2;1220.9
+740-10729 Sjørslev;740;10729;Sjørslev;396.0;0.3;1141.2
+740-10737 Lemming;740;10737;Lemming;325.0;0.2;1419.2
+740-10738 Serup;740;10738;Serup;216.0;0.2;1227.3
+740-10766 Nørre Knudstrup;740;10766;Nørre Knudstrup;241.0;0.2;1506.3
+740-10767 Vinderslev;740;10767;Vinderslev;483.0;0.3;1408.2
+740-10797 Ans;740;10797;Ans;1900.0;1.3;1494.9
+740-10819 Fårvang;740;10819;Fårvang;1410.0;1.1;1274.9
+740-10820 Gjern;740;10820;Gjern;1464.0;1.0;1487.8
+740-10834 Grauballe;740;10834;Grauballe;713.0;0.5;1363.3
+740-10952 Sejling;740;10952;Sejling;325.0;0.2;1406.9
+740-10971 Kjellerup;740;10971;Kjellerup;5095.0;3.8;1349.0
+740-10972 Thorning;740;10972;Thorning;1034.0;1.0;1080.5
+740-11096 Skægkær;740;11096;Skægkær;366.0;0.3;1257.7
+740-12721 Øster Bording;740;12721;Øster Bording;0.0;0.0;0.0
+740-13150 Nørskovlund;740;13150;Nørskovlund;0.0;0.0;0.0
+740-14332 Vrads;740;14332;Vrads;0.0;0.0;0.0
+740-18254 Funder Kirkeby;740;18254;Funder Kirkeby;619.0;0.3;1831.4
+740-18255 Kragelund;740;18255;Kragelund;760.0;0.5;1384.3
+740-18293 Levring;740;18293;Levring;0.0;0.0;0.0
+740-18958 Sejs-Svejbæk;740;18958;Sejs-Svejbæk;4148.0;2.6;1605.9
+740-18988 Resenbro;740;18988;Resenbro;0.0;0.0;0.0
+740-99997 Uden fast bopæl;740;99997;Uden fast bopæl;168.0;0.0;0.0
+740-99999 Landdistrikter;740;99999;Landdistrikter;14071.0;798.8;17.6
+741-00741 Samsø Kommune;741;00741;Samsø Kommune;0.0;0.0;0.0
+741-10098 Onsbjerg;741;10098;Onsbjerg;229.0;0.3;765.9
+741-10099 Tranebjerg;741;10099;Tranebjerg;824.0;0.9;886.0
+741-10100 Nordby;741;10100;Nordby;205.0;0.4;538.1
+741-10953 Brundby;741;10953;Brundby;0.0;0.0;0.0
+741-99997 Uden fast bopæl;741;99997;Uden fast bopæl;5.0;0.0;0.0
+741-99999 Landdistrikter;741;99999;Landdistrikter;2461.0;111.9;22.0
+746-00746 Skanderborg Kommune;746;00746;Skanderborg Kommune;0.0;0.0;0.0
+746-10019 Sjelle;746;10019;Sjelle;314.0;0.4;892.0
+746-10020 Skovby;746;10020;Skovby;0.0;0.0;0.0
+746-10167 Hylke;746;10167;Hylke;417.0;0.3;1215.7
+746-10348 Gammel Rye;746;10348;Gammel Rye;1493.0;0.9;1687.0
+746-10375 Laven (del af flere kommuner);746;10375;Laven (del af flere kommuner);17.0;0.0;2125.0
+746-10376 Galten;746;10376;Galten;8268.0;5.8;1429.5
+746-10377 Låsby;746;10377;Låsby;2011.0;1.5;1328.3
+746-10434 Nørre Vissing;746;10434;Nørre Vissing;212.0;0.2;1191.0
+746-10435 Ry;746;10435;Ry;6082.0;4.0;1536.6
+746-10483 Voerladegård;746;10483;Voerladegård;601.0;0.4;1628.7
+746-10588 Skjørring;746;10588;Skjørring;283.0;0.3;989.5
+746-10730 Hørning;746;10730;Hørning;7750.0;4.0;1941.9
+746-11097 Skanderborg;746;11097;Skanderborg;18849.0;11.5;1634.5
+746-11751 Hårby;746;11751;Hårby;244.0;0.2;1487.8
+746-11770 Alken;746;11770;Alken;237.0;0.1;1881.0
+746-12963 Fruering;746;12963;Fruering;229.0;0.2;1101.0
+746-14808 Blegind;746;14808;Blegind;253.0;0.2;1045.5
+746-15423 Javngyde;746;15423;Javngyde;204.0;0.2;1046.2
+746-18303 Tebstrup;746;18303;Tebstrup;653.0;0.4;1855.1
+746-18313 Virring;746;18313;Virring;974.0;0.6;1517.1
+746-18321 Herskind;746;18321;Herskind;775.0;0.5;1543.8
+746-18343 Stilling;746;18343;Stilling;0.0;0.0;0.0
+746-18385 Stjær;746;18385;Stjær;947.0;0.6;1679.1
+746-18386 Storring;746;18386;Storring;269.0;0.2;1262.9
+746-99997 Uden fast bopæl;746;99997;Uden fast bopæl;44.0;0.0;0.0
+746-99999 Landdistrikter;746;99999;Landdistrikter;9275.0;384.4;24.1
+751-00751 Aarhus Kommune;751;00751;Aarhus Kommune;0.0;0.0;0.0
+751-10017 Mundelstrup;751;10017;Mundelstrup;405.0;0.2;1928.6
+751-10018 Sabro;751;10018;Sabro;2964.0;1.6;1906.1
+751-10059 Stavtrup;751;10059;Stavtrup;0.0;0.0;0.0
+751-10141 Beder;751;10141;Beder;0.0;0.0;0.0
+751-10156 Mårslet;751;10156;Mårslet;4905.0;2.3;2121.5
+751-10218 Malling;751;10218;Malling;0.0;0.0;0.0
+751-10286 Tranbjerg;751;10286;Tranbjerg;0.0;0.0;0.0
+751-10464 Hjortshøj;751;10464;Hjortshøj;3562.0;1.3;2670.2
+751-10465 Lystrup;751;10465;Lystrup;10436.0;5.1;2052.3
+751-10466 Løgten;751;10466;Løgten;7894.0;3.5;2248.4
+751-10467 Studstrup;751;10467;Studstrup;857.0;0.4;1925.8
+751-10858 Solbjerg;751;10858;Solbjerg;3765.0;2.3;1654.2
+751-11045 Aarhus;751;11045;Aarhus;269022.0;98.1;2743.5
+751-11688 Todbjerg;751;11688;Todbjerg;201.0;0.2;957.1
+751-13511 Jegstrup;751;13511;Jegstrup;0.0;0.0;0.0
+751-18319 Borum;751;18319;Borum;309.0;0.2;1398.2
+751-18338 Spørring;751;18338;Spørring;994.0;0.5;1984.0
+751-18339 Trige;751;18339;Trige;2878.0;1.4;2106.9
+751-18384 Ormslev;751;18384;Ormslev;344.0;0.3;1278.8
+751-18397 Mejlby;751;18397;Mejlby;441.0;0.3;1645.5
+751-18398 Elev;751;18398;Elev;1307.0;0.6;2185.6
+751-18399 Hårup;751;18399;Hårup;811.0;0.5;1507.4
+751-18400 Lisbjerg;751;18400;Lisbjerg;846.0;0.5;1796.2
+751-18418 Harlev;751;18418;Harlev;3759.0;1.8;2077.9
+751-18860 Beder-Malling;751;18860;Beder-Malling;8387.0;4.0;2103.6
+751-99997 Uden fast bopæl;751;99997;Uden fast bopæl;1663.0;0.0;0.0
+751-99999 Landdistrikter;751;99999;Landdistrikter;9934.0;342.8;29.0
+756-00756 Ikast-Brande Kommune;756;00756;Ikast-Brande Kommune;0.0;0.0;0.0
+756-14372 Uhre;756;14372;Uhre;260.0;0.4;710.4
+756-18251 Isenvad;756;18251;Isenvad;649.0;0.6;1138.6
+756-18253 Engesvang;756;18253;Engesvang;2030.0;1.6;1255.4
+756-18256 Pårup;756;18256;Pårup;238.0;0.2;1352.3
+756-18258 Gludsted;756;18258;Gludsted;299.0;0.6;505.1
+756-18260 Ikast;756;18260;Ikast;15462.0;11.2;1380.2
+756-18261 Tulstrup;756;18261;Tulstrup;620.0;0.4;1771.4
+756-18262 Bording;756;18262;Bording;2385.0;1.7;1365.2
+756-18264 Hampen;756;18264;Hampen;342.0;0.5;688.1
+756-18267 Klovborg;756;18267;Klovborg;551.0;0.6;1000.0
+756-18271 Ejstrupholm;756;18271;Ejstrupholm;1677.0;1.5;1098.2
+756-18273 Brande;756;18273;Brande;7207.0;8.1;888.2
+756-18274 Nørre Snede;756;18274;Nørre Snede;1848.0;1.8;1007.1
+756-18281 Blåhøj;756;18281;Blåhøj;379.0;0.3;1159.0
+756-99997 Uden fast bopæl;756;99997;Uden fast bopæl;126.0;0.0;0.0
+756-99999 Landdistrikter;756;99999;Landdistrikter;6908.0;704.0;9.8
+760-00760 Ringkøbing-Skjern Kommune;760;00760;Ringkøbing-Skjern Kommune;0.0;0.0;0.0
+760-10990 Bølling;760;10990;Bølling;0.0;0.0;0.0
+760-10991 Skjern;760;10991;Skjern;7876.0;6.8;1154.8
+760-10992 Lønborg;760;10992;Lønborg;240.0;0.3;752.4
+760-11004 Hvide Sande;760;11004;Hvide Sande;3045.0;2.3;1324.5
+760-11020 Hemmet;760;11020;Hemmet;326.0;0.3;950.4
+760-11027 Fjelstervang;760;11027;Fjelstervang;482.0;0.5;969.8
+760-11028 Grønbjerg;760;11028;Grønbjerg;377.0;0.4;1002.7
+760-11029 Spjald;760;11029;Spjald;1279.0;1.2;1050.1
+760-11067 Lyne;760;11067;Lyne;230.0;0.3;916.3
+760-11102 Tarm;760;11102;Tarm;3980.0;3.8;1037.5
+760-11136 Højmark;760;11136;Højmark;275.0;0.4;708.8
+760-11137 Lem;760;11137;Lem;1382.0;1.8;764.0
+760-11163 Nørre Bork;760;11163;Nørre Bork;0.0;0.0;0.0
+760-11164 Ringkøbing;760;11164;Ringkøbing;9985.0;7.1;1408.7
+760-11171 Barde;760;11171;Barde;0.0;0.0;0.0
+760-11172 Videbæk;760;11172;Videbæk;4241.0;3.6;1188.3
+760-11173 Vorgod;760;11173;Vorgod;0.0;0.0;0.0
+760-11174 Astrup;760;11174;Astrup;263.0;0.3;942.7
+760-11178 Herborg;760;11178;Herborg;277.0;0.3;911.2
+760-11180 Rækker Mølle;760;11180;Rækker Mølle;351.0;0.3;1132.3
+760-11217 Velling;760;11217;Velling;271.0;0.3;964.4
+760-11219 Hoven;760;11219;Hoven;204.0;0.4;576.3
+760-11220 Borris;760;11220;Borris;859.0;1.0;850.5
+760-11227 Troldhede;760;11227;Troldhede;649.0;0.9;738.3
+760-11243 Hee;760;11243;Hee;523.0;0.6;870.2
+760-11244 Tim;760;11244;Tim;893.0;1.0;898.4
+760-11245 Kloster;760;11245;Kloster;619.0;0.6;1103.4
+760-11246 No;760;11246;No;258.0;0.3;948.5
+760-11249 Ådum;760;11249;Ådum;223.0;0.3;717.0
+760-11273 Stauning;760;11273;Stauning;345.0;0.6;622.7
+760-17175 Ølstrup;760;17175;Ølstrup;279.0;0.3;905.8
+760-17460 Sønder Vium;760;17460;Sønder Vium;0.0;0.0;0.0
+760-18739 Vorgod-Barde;760;18739;Vorgod-Barde;1019.0;0.9;1158.0
+760-99997 Uden fast bopæl;760;99997;Uden fast bopæl;44.0;0.0;0.0
+760-99999 Landdistrikter;760;99999;Landdistrikter;16227.0;1433.3;11.3
+766-00766 Hedensted Kommune;766;00766;Hedensted Kommune;0.0;0.0;0.0
+766-10010 Lindved;766;10010;Lindved;1317.0;1.0;1281.1
+766-10032 Øster Snede;766;10032;Øster Snede;1197.0;1.0;1252.1
+766-10088 Hedensted;766;10088;Hedensted;11789.0;10.4;1130.2
+766-10089 Daugård;766;10089;Daugård;1085.0;0.7;1519.6
+766-10090 Barrit;766;10090;Barrit;801.0;0.9;906.1
+766-10109 Glud;766;10109;Glud;677.0;0.6;1086.7
+766-10165 Snaptun;766;10165;Snaptun;480.0;0.5;971.7
+766-10297 Overby;766;10297;Overby;0.0;0.0;0.0
+766-10353 Juelsminde;766;10353;Juelsminde;3985.0;4.0;1008.1
+766-10401 Tørring;766;10401;Tørring;2750.0;2.1;1286.2
+766-10696 Hornsyld;766;10696;Hornsyld;1661.0;1.7;999.4
+766-10816 Stenderup;766;10816;Stenderup;390.0;0.3;1123.9
+766-10817 Bjerre;766;10817;Bjerre;471.0;0.4;1165.8
+766-10843 Stouby;766;10843;Stouby;822.0;0.6;1334.4
+766-10954 Ølsted;766;10954;Ølsted;907.0;0.5;1670.4
+766-10956 Kragelund;766;10956;Kragelund;0.0;0.0;0.0
+766-11154 Rårup;766;11154;Rårup;478.0;0.5;905.3
+766-12966 Hosby;766;12966;Hosby;215.0;0.5;428.3
+766-18282 Rask Mølle;766;18282;Rask Mølle;1056.0;0.8;1269.2
+766-18283 Uldum;766;18283;Uldum;1382.0;1.6;868.1
+766-18284 Ølholm;766;18284;Ølholm;899.0;0.8;1135.1
+766-18285 Hornborg;766;18285;Hornborg;224.0;0.2;918.0
+766-18290 Åle;766;18290;Åle;548.0;0.5;1068.2
+766-18308 Korning;766;18308;Korning;375.0;0.3;1074.5
+766-99997 Uden fast bopæl;766;99997;Uden fast bopæl;47.0;0.0;0.0
+766-99999 Landdistrikter;766;99999;Landdistrikter;12968.0;520.9;24.9
+773-00773 Morsø Kommune;773;00773;Morsø Kommune;0.0;0.0;0.0
+773-11039 Erslev;773;11039;Erslev;414.0;0.3;1196.5
+773-11043 Øster Jølby;773;11043;Øster Jølby;636.0;0.6;1012.7
+773-11083 Karby;773;11083;Karby;245.0;0.3;753.8
+773-11084 Frøslev;773;11084;Frøslev;261.0;0.4;709.2
+773-11085 Vils;773;11085;Vils;453.0;0.4;1063.4
+773-11086 Redsted;773;11086;Redsted;234.0;0.3;812.5
+773-11122 Øster Assels;773;11122;Øster Assels;0.0;0.0;0.0
+773-11181 Sejerslev;773;11181;Sejerslev;337.0;0.4;834.2
+773-11183 Flade;773;11183;Flade;0.0;0.0;0.0
+773-11186 Tødsø;773;11186;Tødsø;269.0;0.3;1000.0
+773-11188 Sundby;773;11188;Sundby;478.0;0.6;834.2
+773-11190 Bjergby;773;11190;Bjergby;0.0;0.0;0.0
+773-11237 Nykøbing M;773;11237;Nykøbing M;9135.0;6.3;1439.3
+773-11255 Vodstrup;773;11255;Vodstrup;234.0;0.3;869.9
+773-17056 Lødderup;773;17056;Lødderup;235.0;0.3;681.2
+773-99997 Uden fast bopæl;773;99997;Uden fast bopæl;17.0;0.0;0.0
+773-99999 Landdistrikter;773;99999;Landdistrikter;7717.0;355.8;21.7
+779-00779 Skive Kommune;779;00779;Skive Kommune;0.0;0.0;0.0
+779-10754 Jebjerg;779;10754;Jebjerg;1149.0;1.1;1070.8
+779-10790 Højslev;779;10790;Højslev;224.0;0.3;759.3
+779-10791 Skive;779;10791;Skive;20683.0;14.9;1390.9
+779-10840 Nederby;779;10840;Nederby;560.0;1.1;503.6
+779-10841 Selde;779;10841;Selde;307.0;0.4;771.4
+779-10877 Breum;779;10877;Breum;834.0;0.7;1121.0
+779-10899 Hald;779;10899;Hald;434.0;0.5;891.2
+779-10900 Højslev Stationsby;779;10900;Højslev Stationsby;2820.0;2.2;1277.8
+779-10937 Balling;779;10937;Balling;1179.0;1.1;1061.2
+779-11114 Roslev;779;11114;Roslev;1299.0;1.2;1079.8
+779-11120 Rødding;779;11120;Rødding;918.0;0.8;1179.9
+779-11121 Oddense;779;11121;Oddense;625.0;0.7;927.3
+779-11177 Lihme;779;11177;Lihme;300.0;0.3;1107.0
+779-11230 Lem;779;11230;Lem;495.0;0.5;942.9
+779-11231 Ramsing;779;11231;Ramsing;355.0;0.4;986.1
+779-11232 Hem;779;11232;Hem;578.0;0.6;1003.5
+779-11234 Rønbjerg;779;11234;Rønbjerg;367.0;0.5;785.9
+779-11236 Durup;779;11236;Durup;922.0;1.0;929.4
+779-11256 Glyngøre;779;11256;Glyngøre;1496.0;1.3;1183.5
+779-11267 Hvidbjerg;779;11267;Hvidbjerg;343.0;0.5;750.5
+779-99997 Uden fast bopæl;779;99997;Uden fast bopæl;94.0;0.0;0.0
+779-99999 Landdistrikter;779;99999;Landdistrikter;10558.0;653.6;16.2
+787-00787 Thisted Kommune;787;00787;Thisted Kommune;0.0;0.0;0.0
+787-10906 Vesløs;787;10906;Vesløs;298.0;0.3;863.8
+787-10907 Østerild;787;10907;Østerild;618.0;0.6;995.2
+787-10908 Ræhr;787;10908;Ræhr;557.0;0.5;1197.8
+787-10925 Frøstrup;787;10925;Frøstrup;642.0;0.7;964.0
+787-11008 Hørdum;787;11008;Hørdum;244.0;0.3;924.2
+787-11009 Hanstholm;787;11009;Hanstholm;2154.0;3.0;727.0
+787-11036 Hundborg;787;11036;Hundborg;501.0;0.4;1384.0
+787-11037 Snedsted;787;11037;Snedsted;1200.0;0.7;1729.1
+787-11038 Koldby;787;11038;Koldby;781.0;0.7;1160.5
+787-11040 Vestervig;787;11040;Vestervig;628.0;0.6;1043.2
+787-11041 Hurup;787;11041;Hurup;2745.0;2.4;1153.4
+787-11042 Bedsted;787;11042;Bedsted;872.0;0.8;1110.8
+787-11053 Agger;787;11053;Agger;363.0;1.3;282.9
+787-11059 Klitmøller;787;11059;Klitmøller;903.0;2.3;390.4
+787-11088 Ydby;787;11088;Ydby;274.0;0.4;721.1
+787-11112 Nors;787;11112;Nors;1050.0;0.9;1147.5
+787-11113 Hillerslev;787;11113;Hillerslev;391.0;0.4;1053.9
+787-11182 Sennels;787;11182;Sennels;862.0;0.8;1138.7
+787-11187 Sundby;787;11187;Sundby;310.0;0.3;987.3
+787-11189 Vilsund Vest;787;11189;Vilsund Vest;395.0;0.5;877.8
+787-11191 Nørre Vorupør;787;11191;Nørre Vorupør;586.0;1.7;353.2
+787-11247 Sjørring;787;11247;Sjørring;710.0;0.6;1099.1
+787-11248 Thisted;787;11248;Thisted;13363.0;8.3;1619.8
+787-17514 Øsløs;787;17514;Øsløs;210.0;0.3;684.0
+787-99997 Uden fast bopæl;787;99997;Uden fast bopæl;51.0;0.0;0.0
+787-99999 Landdistrikter;787;99999;Landdistrikter;13118.0;1045.4;12.5
+791-00791 Viborg Kommune;791;00791;Viborg Kommune;0.0;0.0;0.0
+791-10715 Karup;791;10715;Karup;2256.0;2.0;1142.9
+791-10716 Skelhøje;791;10716;Skelhøje;511.0;0.3;1498.5
+791-10717 Hald Ege;791;10717;Hald Ege;0.0;0.0;0.0
+791-10718 Rindsholm;791;10718;Rindsholm;267.0;0.3;861.3
+791-10721 Ulbjerg;791;10721;Ulbjerg;503.0;0.5;1004.0
+791-10726 Frederiks;791;10726;Frederiks;1856.0;1.4;1366.7
+791-10768 Kølvrå;791;10768;Kølvrå;761.0;0.8;1000.0
+791-10771 Bjerringbro;791;10771;Bjerringbro;7551.0;6.3;1190.4
+791-10788 Mønsted;791;10788;Mønsted;740.0;0.7;1046.7
+791-10792 Tapdrup;791;10792;Tapdrup;508.0;0.4;1326.4
+791-10793 Vejrumbro;791;10793;Vejrumbro;418.0;0.4;1120.6
+791-10799 Ørum;791;10799;Ørum;1413.0;1.1;1301.1
+791-10800 Bjerregrav;791;10800;Bjerregrav;448.0;0.5;873.3
+791-10801 Møldrup;791;10801;Møldrup;1300.0;1.1;1220.7
+791-10803 Klejtrup;791;10803;Klejtrup;903.0;0.7;1266.5
+791-10804 Løvel;791;10804;Løvel;778.0;0.7;1047.1
+791-10805 Vammen;791;10805;Vammen;546.0;0.5;1103.0
+791-10809 Sahl;791;10809;Sahl;333.0;0.3;1128.8
+791-10835 Rødding;791;10835;Rødding;918.0;0.7;1285.7
+791-10836 Mammen;791;10836;Mammen;327.0;0.3;1267.4
+791-10868 Grønhøj;791;10868;Grønhøj;0.0;0.0;0.0
+791-10878 Rødkærsbro;791;10878;Rødkærsbro;1687.0;1.9;874.1
+791-10879 Tange;791;10879;Tange;276.0;0.3;1014.7
+791-10901 Fly;791;10901;Fly;298.0;0.4;820.9
+791-10902 Stoholm;791;10902;Stoholm;2531.0;1.8;1371.1
+791-10903 Kjeldbjerg;791;10903;Kjeldbjerg;282.0;0.3;819.8
+791-10904 Sjørup;791;10904;Sjørup;287.0;0.3;834.3
+791-10905 Vridsted;791;10905;Vridsted;585.0;0.6;1003.4
+791-10918 Bruunshåb;791;10918;Bruunshåb;807.0;0.6;1253.1
+791-10920 Hammershøj;791;10920;Hammershøj;930.0;0.9;981.0
+791-10921 Kvorning;791;10921;Kvorning;214.0;0.3;856.0
+791-10963 Sparkær;791;10963;Sparkær;638.0;0.5;1217.6
+791-10964 Skals;791;10964;Skals;1839.0;1.4;1290.5
+791-10965 Løgstrup;791;10965;Løgstrup;1897.0;1.3;1484.4
+791-10966 Ravnstrup;791;10966;Ravnstrup;425.0;0.4;1039.1
+791-10970 Birgittelyst;791;10970;Birgittelyst;620.0;0.4;1527.1
+791-10978 Hvam Stationsby;791;10978;Hvam Stationsby;298.0;0.4;780.1
+791-10986 Viborg;791;10986;Viborg;40371.0;25.1;1606.0
+791-13038 Finderup;791;13038;Finderup;0.0;0.0;0.0
+791-13770 Låstrup;791;13770;Låstrup;0.0;0.0;0.0
+791-13779 Hjarbæk;791;13779;Hjarbæk;224.0;0.5;411.0
+791-14725 Vinkel;791;14725;Vinkel;211.0;0.2;950.5
+791-18307 Sønder Rind;791;18307;Sønder Rind;284.0;0.3;956.2
+791-18413 Knudby;791;18413;Knudby;244.0;0.4;613.1
+791-99997 Uden fast bopæl;791;99997;Uden fast bopæl;158.0;0.0;0.0
+791-99999 Landdistrikter;791;99999;Landdistrikter;19034.0;1351.4;14.1
+810-00810 Brønderslev Kommune;810;00810;Brønderslev Kommune;0.0;0.0;0.0
+810-10583 Brønderslev;810;10583;Brønderslev;12541.0;8.1;1545.6
+810-10584 Øster Brønderslev;810;10584;Øster Brønderslev;963.0;0.7;1354.4
+810-10597 Hallund;810;10597;Hallund;317.0;0.3;990.6
+810-10598 Jerslev;810;10598;Jerslev;879.0;0.8;1135.7
+810-10619 Asaa;810;10619;Asaa;1134.0;1.0;1145.5
+810-10622 Hjallerup;810;10622;Hjallerup;3823.0;2.9;1327.4
+810-10623 Klokkerholm;810;10623;Klokkerholm;903.0;0.8;1088.0
+810-10665 Agersted;810;10665;Agersted;574.0;0.5;1127.7
+810-10712 Tise;810;10712;Tise;243.0;0.2;1025.3
+810-10931 Stenum;810;10931;Stenum;278.0;0.3;1003.6
+810-18334 Dronninglund;810;18334;Dronninglund;3427.0;2.5;1374.1
+810-18350 Serritslev;810;18350;Serritslev;465.0;0.5;947.0
+810-18381 Flauenskjold;810;18381;Flauenskjold;724.0;0.9;840.9
+810-99997 Uden fast bopæl;810;99997;Uden fast bopæl;73.0;0.0;0.0
+810-99999 Landdistrikter;810;99999;Landdistrikter;9784.0;613.6;15.9
+813-00813 Frederikshavn Kommune;813;00813;Frederikshavn Kommune;0.0;0.0;0.0
+813-10579 Præstbro;813;10579;Præstbro;229.0;0.3;864.2
+813-10616 Haldbjerg;813;10616;Haldbjerg;336.0;0.4;783.2
+813-10618 Voerså;813;10618;Voerså;556.0;0.6;889.6
+813-10983 Skagen;813;10983;Skagen;8088.0;7.8;1036.4
+813-10984 Jerup;813;10984;Jerup;574.0;0.7;793.9
+813-10985 Elling;813;10985;Elling;1212.0;0.9;1297.6
+813-11090 Frederikshavn;813;11090;Frederikshavn;23501.0;13.5;1736.1
+813-11274 Østervrå;813;11274;Østervrå;1302.0;1.0;1307.2
+813-18297 Ravnshøj;813;18297;Ravnshøj;606.0;0.4;1534.2
+813-18309 Kvissel;813;18309;Kvissel;414.0;0.4;1078.1
+813-18312 Thorshøj;813;18312;Thorshøj;288.0;0.3;897.2
+813-18316 Ålbæk;813;18316;Ålbæk;1475.0;1.6;897.2
+813-18324 Sæby;813;18324;Sæby;8841.0;7.7;1151.0
+813-18325 Hørby;813;18325;Hørby;465.0;0.6;812.9
+813-18326 Syvsten;813;18326;Syvsten;259.0;0.2;1111.6
+813-18327 Lyngså;813;18327;Lyngså;246.0;0.4;562.9
+813-18342 Strandby;813;18342;Strandby;2258.0;1.5;1476.8
+813-18351 Kilden;813;18351;Kilden;874.0;0.9;996.6
+813-18379 Gærum;813;18379;Gærum;661.0;0.6;1178.3
+813-18380 Dybvad;813;18380;Dybvad;610.0;0.7;887.9
+813-99997 Uden fast bopæl;813;99997;Uden fast bopæl;90.0;0.0;0.0
+813-99999 Landdistrikter;813;99999;Landdistrikter;7471.0;610.4;12.2
+820-00820 Vesthimmerlands Kommune;820;00820;Vesthimmerlands Kommune;0.0;0.0;0.0
+820-10719 Gedsted;820;10719;Gedsted;891.0;0.9;981.3
+820-10720 Fjelsø;820;10720;Fjelsø;0.0;0.0;0.0
+820-10732 Aggersund;820;10732;Aggersund;317.0;0.4;777.0
+820-10733 Løgstør;820;10733;Løgstør;4104.0;3.6;1130.6
+820-10739 Vegger;820;10739;Vegger;325.0;0.3;1300.0
+820-10769 Østrup;820;10769;Østrup;289.0;0.2;1219.4
+820-10842 Strandby;820;10842;Strandby;310.0;0.3;888.3
+820-10873 Vindblæs;820;10873;Vindblæs;228.0;0.4;608.0
+820-10874 Ranum;820;10874;Ranum;994.0;1.0;947.6
+820-10875 Vilsted;820;10875;Vilsted;232.0;0.2;958.7
+820-10876 Overlade;820;10876;Overlade;468.0;0.4;1098.6
+820-10887 Hvalpsund;820;10887;Hvalpsund;682.0;1.2;590.5
+820-10892 Farsø;820;10892;Farsø;3410.0;2.8;1213.5
+820-10893 Havbro;820;10893;Havbro;365.0;0.4;933.5
+820-10894 Vognsild;820;10894;Vognsild;265.0;0.4;722.1
+820-10895 Ullits;820;10895;Ullits;293.0;0.3;993.2
+820-10933 Hornum;820;10933;Hornum;909.0;0.7;1271.3
+820-10934 Vester Hornum;820;10934;Vester Hornum;576.0;0.5;1127.2
+820-10975 Simested;820;10975;Simested;257.0;0.2;1103.0
+820-10976 Aalestrup;820;10976;Aalestrup;2775.0;2.7;1013.9
+820-10980 Aars;820;10980;Aars;8246.0;6.0;1381.0
+820-11259 Fandrup;820;11259;Fandrup;205.0;0.2;1145.3
+820-99997 Uden fast bopæl;820;99997;Uden fast bopæl;58.0;0.0;0.0
+820-99999 Landdistrikter;820;99999;Landdistrikter;11086.0;746.6;14.9
+825-00825 Læsø Kommune;825;00825;Læsø Kommune;0.0;0.0;0.0
+825-10384 Vesterø Havn;825;10384;Vesterø Havn;371.0;1.5;240.6
+825-10504 Østerby Havn;825;10504;Østerby Havn;267.0;0.5;500.0
+825-10505 Byrum;825;10505;Byrum;438.0;0.9;487.2
+825-99997 Uden fast bopæl;825;99997;Uden fast bopæl;1.0;0.0;0.0
+825-99999 Landdistrikter;825;99999;Landdistrikter;716.0;116.4;6.2
+840-00840 Rebild Kommune;840;00840;Rebild Kommune;0.0;0.0;0.0
+840-10585 Blenstrup;840;10585;Blenstrup;529.0;0.5;1130.3
+840-10664 Bælum;840;10664;Bælum;772.0;0.7;1112.4
+840-10734 Haverslev;840;10734;Haverslev;765.0;0.9;829.7
+840-10782 Ravnkilde;840;10782;Ravnkilde;360.0;0.3;1040.5
+840-10783 Rørbæk;840;10783;Rørbæk;435.0;0.4;1185.3
+840-10798 Sørup;840;10798;Sørup;384.0;0.4;950.5
+840-10807 Støvring;840;10807;Støvring;7516.0;5.8;1299.9
+840-10827 Suldrup;840;10827;Suldrup;1250.0;0.8;1474.1
+840-10830 Rebild;840;10830;Rebild;620.0;0.5;1353.7
+840-10831 Skørping;840;10831;Skørping;2958.0;1.8;1662.7
+840-10865 Øster Hornum;840;10865;Øster Hornum;975.0;0.7;1464.0
+840-10977 Nørager;840;10977;Nørager;1168.0;1.0;1117.7
+840-10981 Sønderup;840;10981;Sønderup;219.0;0.2;977.7
+840-11265 Aarestrup;840;11265;Aarestrup;206.0;0.2;876.6
+840-12337 Store Brøndum;840;12337;Store Brøndum;0.0;0.0;0.0
+840-13954 Stenild;840;13954;Stenild;0.0;0.0;0.0
+840-17177 Guldbæk;840;17177;Guldbæk;0.0;0.0;0.0
+840-18344 Terndrup;840;18344;Terndrup;1587.0;1.2;1270.6
+840-18840 Guldbæk Syd;840;18840;Guldbæk Syd;203.0;0.4;456.2
+840-99997 Uden fast bopæl;840;99997;Uden fast bopæl;20.0;0.0;0.0
+840-99999 Landdistrikter;840;99999;Landdistrikter;9424.0;605.3;15.6
+846-00846 Mariagerfjord Kommune;846;00846;Mariagerfjord Kommune;0.0;0.0;0.0
+846-10092 Rostrup;846;10092;Rostrup;265.0;0.4;679.5
+846-10516 Hadsund;846;10516;Hadsund;4857.0;4.1;1186.7
+846-10517 Hadsund Syd;846;10517;Hadsund Syd;484.0;0.5;950.9
+846-10518 Assens;846;10518;Assens;1507.0;1.3;1146.9
+846-10624 Veddum;846;10624;Veddum;350.0;0.4;879.4
+846-10625 Øster Hurup;846;10625;Øster Hurup;718.0;1.8;408.2
+846-10626 Als;846;10626;Als;937.0;0.8;1169.8
+846-10679 Visborg;846;10679;Visborg;437.0;0.4;1030.7
+846-10722 Hobro;846;10722;Hobro;11917.0;9.5;1248.6
+846-10735 Vebbestrup;846;10735;Vebbestrup;374.0;0.4;1041.8
+846-10736 Arden;846;10736;Arden;2510.0;2.0;1267.7
+846-10781 Rold;846;10781;Rold;244.0;0.2;1060.9
+846-10784 Øster Doense;846;10784;Øster Doense;235.0;0.4;660.1
+846-10785 Døstrup;846;10785;Døstrup;332.0;0.4;907.1
+846-10802 Hvornum;846;10802;Hvornum;323.0;0.4;909.9
+846-10974 Valsgård;846;10974;Valsgård;1109.0;0.7;1551.0
+846-10979 Hvilsom;846;10979;Hvilsom;239.0;0.2;1004.2
+846-11275 Oue;846;11275;Oue;346.0;0.3;1165.0
+846-12967 Hørby;846;12967;Hørby;218.0;0.3;775.8
+846-14070 Skelund;846;14070;Skelund;437.0;0.4;1021.0
+846-18294 Sønder Onsild;846;18294;Sønder Onsild;512.0;0.7;785.3
+846-18295 Sønder Onsild Stationsby;846;18295;Sønder Onsild Stationsby;290.0;0.2;1367.9
+846-18296 Handest;846;18296;Handest;222.0;0.3;816.2
+846-18404 Mariager;846;18404;Mariager;2490.0;1.9;1325.2
+846-18407 Norup;846;18407;Norup;258.0;0.3;837.7
+846-18408 Astrup;846;18408;Astrup;529.0;0.5;1031.2
+846-99997 Uden fast bopæl;846;99997;Uden fast bopæl;58.0;0.0;0.0
+846-99999 Landdistrikter;846;99999;Landdistrikter;9868.0;689.6;14.3
+849-00849 Jammerbugt Kommune;849;00849;Jammerbugt Kommune;0.0;0.0;0.0
+849-10713 Blokhus;849;10713;Blokhus;500.0;1.8;276.2
+849-10714 Hune;849;10714;Hune;601.0;0.9;676.8
+849-10763 Biersted;849;10763;Biersted;1690.0;1.0;1625.0
+849-10764 Nørhalne;849;10764;Nørhalne;1357.0;0.8;1704.8
+849-10822 Kås;849;10822;Kås;2558.0;2.0;1268.2
+849-10823 Pandrup;849;10823;Pandrup;2929.0;2.7;1090.5
+849-10826 Fjerritslev;849;10826;Fjerritslev;3398.0;2.8;1230.3
+849-10833 Ingstrup;849;10833;Ingstrup;396.0;0.5;821.6
+849-10847 Gjøl;849;10847;Gjøl;927.0;1.0;940.2
+849-10848 Halvrimmen;849;10848;Halvrimmen;646.0;0.5;1216.6
+849-10859 Birkelse;849;10859;Birkelse;686.0;0.5;1402.9
+849-10867 Bonderup;849;10867;Bonderup;221.0;0.2;932.5
+849-10869 Tranum;849;10869;Tranum;446.0;0.9;499.4
+849-10870 Aabybro;849;10870;Aabybro;5859.0;4.1;1424.9
+849-10926 Vester Torup;849;10926;Vester Torup;251.0;0.4;693.4
+849-10927 Klim;849;10927;Klim;446.0;0.5;929.2
+849-10928 Arentsminde;849;10928;Arentsminde;420.0;0.5;933.3
+849-10929 Skovsgård;849;10929;Skovsgård;865.0;0.9;986.3
+849-10930 Østerby;849;10930;Østerby;400.0;0.5;798.4
+849-10932 Saltum;849;10932;Saltum;690.0;0.6;1071.4
+849-10962 Moseby;849;10962;Moseby;0.0;0.0;0.0
+849-11257 Gøttrup;849;11257;Gøttrup;203.0;0.2;886.5
+849-11269 Brovst;849;11269;Brovst;2733.0;2.3;1164.0
+849-12055 Vester Hjermitslev;849;12055;Vester Hjermitslev;409.0;0.5;777.6
+849-13760 Ny Skovsgård;849;13760;Ny Skovsgård;230.0;0.3;697.0
+849-99997 Uden fast bopæl;849;99997;Uden fast bopæl;15.0;0.0;0.0
+849-99999 Landdistrikter;849;99999;Landdistrikter;9705.0;837.6;11.6
+851-00851 Aalborg Kommune;851;00851;Aalborg Kommune;0.0;0.0;0.0
+851-10085 Nørre Kongerslev;851;10085;Nørre Kongerslev;274.0;0.3;1022.4
+851-10093 Fjellerad;851;10093;Fjellerad;424.0;0.3;1390.2
+851-10094 Mou;851;10094;Mou;1142.0;0.8;1449.2
+851-10095 Egense;851;10095;Egense;0.0;0.0;0.0
+851-10096 Hals;851;10096;Hals;2459.0;1.6;1530.2
+851-10575 Sulsted;851;10575;Sulsted;1539.0;1.0;1535.9
+851-10577 Storvorde;851;10577;Storvorde;3331.0;1.9;1742.2
+851-10578 Vaarst;851;10578;Vaarst;394.0;0.3;1335.6
+851-10582 Vodskov;851;10582;Vodskov;4292.0;2.6;1647.6
+851-10594 Vester Hassing;851;10594;Vester Hassing;2554.0;1.7;1480.6
+851-10595 Stae;851;10595;Stae;364.0;0.4;1013.9
+851-10599 Kongerslev;851;10599;Kongerslev;1376.0;1.2;1158.2
+851-10600 Gistrup;851;10600;Gistrup;3579.0;2.0;1820.4
+851-10601 Klarup;851;10601;Klarup;4714.0;2.5;1869.2
+851-10602 Nøvling;851;10602;Nøvling;381.0;0.2;1567.9
+851-10603 Gudumholm;851;10603;Gudumholm;768.0;0.5;1462.9
+851-10620 Vestbjerg;851;10620;Vestbjerg;2810.0;1.7;1634.7
+851-10621 Uggerhalne;851;10621;Uggerhalne;284.0;0.3;1036.5
+851-10666 Hou;851;10666;Hou;685.0;0.9;782.0
+851-10740 Farstrup;851;10740;Farstrup;434.0;0.5;817.3
+851-10741 Sebbersund;851;10741;Sebbersund;349.0;0.3;1133.1
+851-10742 Valsted;851;10742;Valsted;233.0;0.3;829.2
+851-10752 Kølby;851;10752;Kølby;0.0;0.0;0.0
+851-10761 Nibe;851;10761;Nibe;5233.0;2.9;1802.6
+851-10765 Vadum;851;10765;Vadum;2336.0;1.4;1700.1
+851-10860 Sønderholm;851;10860;Sønderholm;876.0;0.6;1489.8
+851-10861 Dall Villaby;851;10861;Dall Villaby;1084.0;0.6;1869.0
+851-10862 Frejlev;851;10862;Frejlev;2779.0;1.7;1616.6
+851-10863 Godthåb;851;10863;Godthåb;0.0;0.0;0.0
+851-10864 Svenstrup;851;10864;Svenstrup;7257.0;5.0;1446.2
+851-10866 Ferslev;851;10866;Ferslev;724.0;0.5;1381.7
+851-10917 Ellidshøj;851;10917;Ellidshøj;518.0;0.4;1359.6
+851-10924 Bislev;851;10924;Bislev;217.0;0.3;720.9
+851-10938 Aalborg;851;10938;Aalborg;113417.0;50.1;2262.8
+851-11270 Langholt;851;11270;Langholt;977.0;0.7;1449.6
+851-13594 Nørholm;851;13594;Nørholm;281.0;0.3;986.0
+851-18292 Tylstrup;851;18292;Tylstrup;1295.0;1.0;1346.2
+851-18311 Grindsted;851;18311;Grindsted;713.0;0.4;1609.5
+851-18335 Gandrup;851;18335;Gandrup;1532.0;1.3;1203.5
+851-18336 Ulsted;851;18336;Ulsted;1066.0;0.7;1503.5
+851-18442 Nørresundby;851;18442;Nørresundby;22600.0;10.6;2131.1
+851-70378 Koldkær;851;70378;Koldkær;0.0;0.0;0.0
+851-99997 Uden fast bopæl;851;99997;Uden fast bopæl;585.0;0.0;0.0
+851-99999 Landdistrikter;851;99999;Landdistrikter;16061.0;1037.6;15.5
+860-00860 Hjørring Kommune;860;00860;Hjørring Kommune;0.0;0.0;0.0
+860-10515 Uggerby;860;10515;Uggerby;210.0;0.3;836.7
+860-10526 Vidstrup;860;10526;Vidstrup;213.0;0.2;1323.0
+860-10529 Tornby;860;10529;Tornby;1023.0;1.0;1042.8
+860-10530 Lønstrup;860;10530;Lønstrup;521.0;1.8;283.6
+860-10531 Bjergby;860;10531;Bjergby;871.0;0.8;1027.1
+860-10550 Astrup;860;10550;Astrup;579.0;0.5;1146.5
+860-10555 Sindal;860;10555;Sindal;3069.0;2.8;1090.6
+860-10772 Løkken;860;10772;Løkken;1576.0;2.6;616.1
+860-10773 Sønder Rubjerg;860;10773;Sønder Rubjerg;220.0;0.3;647.1
+860-10832 Vrensted;860;10832;Vrensted;310.0;0.5;665.2
+860-10950 Poulstrup;860;10950;Poulstrup;454.0;0.4;1201.1
+860-10961 Vrå;860;10961;Vrå;2484.0;2.2;1145.2
+860-11091 Hjørring;860;11091;Hjørring;25764.0;17.4;1478.2
+860-11268 Harken;860;11268;Harken;404.0;0.5;814.5
+860-13289 Hundelev;860;13289;Hundelev;224.0;0.3;783.2
+860-17168 Børglum;860;17168;Børglum;0.0;0.0;0.0
+860-18298 Mosbjerg;860;18298;Mosbjerg;264.0;0.3;874.2
+860-18300 Bindslev;860;18300;Bindslev;1117.0;1.1;1002.7
+860-18301 Tversted;860;18301;Tversted;568.0;2.9;196.0
+860-18302 Åbyen;860;18302;Åbyen;573.0;0.3;1854.4
+860-18306 Tolne;860;18306;Tolne;203.0;0.2;894.3
+860-18315 Lendum;860;18315;Lendum;540.0;0.5;1120.3
+860-18317 Hirtshals;860;18317;Hirtshals;5880.0;4.4;1327.0
+860-18318 Horne;860;18318;Horne;701.0;0.5;1325.1
+860-18377 Lørslev;860;18377;Lørslev;271.0;0.3;1000.0
+860-18378 Tårs;860;18378;Tårs;1886.0;1.5;1255.7
+860-18403 Rakkeby;860;18403;Rakkeby;233.0;0.3;756.5
+860-99997 Uden fast bopæl;860;99997;Uden fast bopæl;77.0;0.0;0.0
+860-99999 Landdistrikter;860;99999;Landdistrikter;15072.0;882.7;17.1
